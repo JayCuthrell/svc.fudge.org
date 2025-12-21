@@ -1,40 +1,42 @@
 #!/bin/zsh
 
-# Ensure you are in the svc directory
-# Usage: ./download_logos.sh
-
-# 1. Create logos directory if it doesn't exist
 mkdir -p logos
 
-# 2. Extract homepage URLs and their corresponding logo filenames from data.yml
-# This uses grep and sed for basic parsing. 
-# It looks for lines containing 'homepage_url:' and 'logo:'
-# and pairs them together.
+echo "Starting download and Base64-embedding (Color-Safe)..."
+
+# Process data.yml
 grep -E "homepage_url:|logo:" data.yml | sed 'N;s/\n/ /' | while read -r line; do
-    # Extract the URL and filename
-    URL=$(echo $line | awk -F': ' '{print $2}' | awk '{print $1}')
-    FILENAME=$(echo $line | awk -F': ' '{print $3}')
+    URL=$(echo $line | awk -F': ' '{print $2}' | awk '{print $1}' | sed "s/['\"]//g")
+    FILENAME=$(echo $line | awk -F': ' '{print $3}' | sed "s/['\"]//g")
 
-    # Skip if either value is empty
-    if [[ -z "$URL" || -z "$FILENAME" ]]; then
-        continue
-    fi
+    if [[ -z "$URL" || -z "$FILENAME" ]]; then continue; fi
 
-    echo "Processing $URL -> logos/$FILENAME..."
-
-    # 3. Download using the high-res favicon utility
-    # We remove trailing slashes from the URL and encode it for the query
     CLEAN_URL=$(echo $URL | sed 's/\/$//')
-    
-    curl -L "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${CLEAN_URL}&size=256" \
-         --output "logos/$FILENAME" \
-         --silent
+    TEMP_PNG="logos/${FILENAME}.png"
+    FINAL_SVG="logos/${FILENAME}"
 
-    if [[ -f "logos/$FILENAME" ]]; then
-        echo "✅ Successfully downloaded $FILENAME"
+    echo "Processing: $CLEAN_URL -> $FINAL_SVG"
+
+    # 1. Download the high-res PNG favicon
+    curl -L "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=${CLEAN_URL}&size=256" \
+         --output "$TEMP_PNG" --silent
+
+    if [[ -f "$TEMP_PNG" ]]; then
+        # 2. Convert PNG to Base64 string
+        B64_DATA=$(base64 -i "$TEMP_PNG")
+
+        # 3. Create a wrapper SVG that embeds the PNG
+        # This preserves every pixel and color exactly
+        cat <<EOF > "$FINAL_SVG"
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <image width="256" height="256" href="data:image/png;base64,$B64_DATA" />
+</svg>
+EOF
+        echo "  ✅ Embedded PNG into SVG (Colors Retained)"
+        rm "$TEMP_PNG"
     else
-        echo "❌ Failed to download $FILENAME"
+        echo "  ❌ Failed download for $URL"
     fi
 done
 
-echo "\nDone! Check your 'logos' directory."
+echo "\nDone! Your logos are now color-accurate SVGs."
