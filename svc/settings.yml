@@ -5,9 +5,13 @@ title: Space Value Chain (SVC)
 description: Visualizing the global Space Value Chain ecosystem.
 
 colors:
-  color1: "#0B3D91" # NASA Blue
-  color2: "#FC3D21" # NASA Red
-  color3: "#000000" # Space Black
+  color1: "#006BCC"
+  color2: "#FF00AA"
+  color3: "#6095D6"
+  color4: "#002A51"
+  color5: "#016BCC"
+  color6: "#002A51"
+  color7: "#B4DBFF"
 
 grid_items_size: medium
 
