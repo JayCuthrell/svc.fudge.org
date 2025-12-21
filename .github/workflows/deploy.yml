@@ -7,41 +7,35 @@ permissions:
   contents: write
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-22.04  # Stable environment for headless chrome dependencies
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install System Dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser libnss3 libgbm1 libasound2
+      # 1. Setup a stable Chrome binary specifically for CI
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        id: setup-chrome
 
+      # 2. Install the landscape2 binary directly (faster than Docker)
+      - name: Install landscape2
+        run: |
+          curl --proto '=https' --tlsv1.2 -LsSf https://github.com/cncf/landscape2/releases/download/v1.1.0/landscape2-installer.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      # 3. Build the site (no Docker, so permissions just work)
       - name: Build Landscape
         run: |
-          # 1. Prepare workspace and pre-create dist with open permissions
-          mkdir -p dist
-          chmod -R 777 .
-          
-          # 2. Run the build
-          # -w /work ensures relative paths in settings.yml resolve to /work/logos/
-          # --net=host and seccomp allow the container to use the host's Chromium
-          docker run --rm \
-            -v $(pwd):/work \
-            -w /work \
-            --net=host \
-            --security-opt seccomp=unconfined \
-            ghcr.io/cncf/landscape2:latest \
-            landscape2 build \
-              --data-file data.yml \
-              --settings-file settings.yml \
-              --guide-file guide.yml \
-              --games-file games.yml \
-              --logos-path logos \
-              --output-dir dist
-          
-          # 3. Fix ownership so the runner user can access and deploy the files
-          sudo chown -R $USER:$USER dist
+          landscape2 build \
+            --data-file data.yml \
+            --settings-file settings.yml \
+            --guide-file guide.yml \
+            --games-file games.yml \
+            --logos-path logos \
+            --output-dir dist
+        env:
+          # Tell landscape2 where to find the browser we just installed
+          CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
 
       - name: Add CNAME
         run: echo "svc.fudge.org" > dist/CNAME
