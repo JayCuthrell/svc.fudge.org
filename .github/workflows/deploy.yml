@@ -1,0 +1,34 @@
+name: Build and Deploy Landscape
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build Landscape
+        run: |
+          docker run --rm -v $(pwd):/work \
+            ghcr.io/cncf/landscape2:latest \
+            landscape2 build \
+              --data-file /work/data.yml \
+              --settings-file /work/settings.yml \
+              --guide-file /work/guide.yml \
+              --games-file /work/games.yml \
+              --logos-path /work/logos \
+              --output-dir /work/dist
+
+      - name: Add CNAME
+        run: echo "svc.fudge.org" > dist/CNAME
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
+          branch: gh-pages
