@@ -14,7 +14,13 @@ jobs:
 
       - name: Build Landscape
         run: |
-          docker run --rm -v $(pwd):/work \
+          # Pre-create the output directory to avoid permission issues
+          mkdir -p dist
+          
+          # Run the build command as the current runner user to fix os error 13
+          docker run --rm \
+            --user $(id -u):$(id -g) \
+            -v $(pwd):/work \
             ghcr.io/cncf/landscape2:latest \
             landscape2 build \
               --data-file /work/data.yml \
