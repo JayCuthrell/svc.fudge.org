@@ -1,6 +1,6 @@
 # settings.yml
 foundation: Space Value Chain (SVC)
-url: http://127.0.0.1:8000/
+url: http://127.0.0.1:8000
 title: Space Value Chain (SVC)
 description: Visualizing the global Space Value Chain ecosystem.
 
