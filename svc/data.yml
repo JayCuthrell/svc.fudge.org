@@ -1,81 +1,204 @@
-# Landscape2 data
-#
-# This file contains the data that will be used to generate the landscape.
-#
-# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
-
+# data.yml
 categories:
-  - name: Category 1
+  - name: Orbital Compute, Data Processing & AI
     subcategories:
-      - name: Subcategory 1-1
+      - name: Computing Platforms
         items:
-          - name: Item 1
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 1
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 2
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 2
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 3
-            description: This is the description of item 3
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-      - name: Subcategory 1-2
-        items:
-          - name: Item 4
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 4
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 5
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 5
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            repo_url: https://github.com/cncf/landscape2
-  - name: Category 2
-    subcategories:
-      - name: Subcategory 2-1
-        items:
-          - name: Item 6
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 7
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 7
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
-          - name: Item 8
-            description: This is the description of item 8
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-      - name: Subcategory 2-2
-        items:
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 9
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 9
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+          - name: Aetherflux
+            homepage_url: https://aetherflux.com
+            logo: aetherflux.svg
+          - name: Axiom Space
+            homepage_url: https://www.axiomspace.com
+            logo: axiom-space.svg
+          - name: Crusoe
+            homepage_url: https://www.crusoe.ai
+            logo: crusoe.svg
+          - name: LEOcloud
+            homepage_url: https://leocloud.space
+            logo: leocloud.svg
+          - name: Nvidia
+            homepage_url: https://www.nvidia.com
+            logo: nvidia.svg
+          - name: OrbitsEdge
+            homepage_url: https://orbitsedge.com
+            logo: orbitsedge.svg
+          - name: Ramon.Space
+            homepage_url: https://ramon.space
+            logo: ramon-space.svg
+          - name: Sidus Space
+            homepage_url: https://sidusspace.com
+            logo: sidus-space.svg
+          - name: Starcloud
+            homepage_url: https://starcloud.com
+            logo: starcloud.svg
+          - name: Ubotica
+            homepage_url: https://ubotica.com
+            logo: ubotica.svg
+          - name: Unibap
+            homepage_url: https://unibap.com
+            logo: unibap.svg
+          - name: Voyager Space
+            homepage_url: https://voyagertechnologies.com
+            logo: voyager-space.svg
 
+  - name: Cloud Extension & Satellite Connectivity
+    subcategories:
+      - name: Connectivity Providers
+        items:
+          - name: Amazon (Leo/Kuiper)
+            homepage_url: https://leo.amazon.com
+            logo: amazon-kuiper.svg
+          - name: AnySignal
+            homepage_url: https://anysignal.com
+            logo: anysignal.svg
+          - name: AST SpaceMobile
+            homepage_url: https://www.ast-science.com
+            logo: ast-spacemobile.svg
+          - name: Astranis
+            homepage_url: https://www.astranis.com
+            logo: astranis.svg
+          - name: Microsoft Azure Space
+            homepage_url: https://azure.microsoft.com/en-us/solutions/space
+            logo: azure-space.svg
+          - name: NTT
+            homepage_url: https://group.ntt/en
+            logo: ntt.svg
+          - name: SES
+            homepage_url: https://www.ses.com
+            logo: ses.svg
+          - name: SKY Perfect JSAT
+            homepage_url: https://www.skyperfectjsat.space/jsat/en/
+            logo: sky-perfect-jsat.svg
+          - name: SpaceX
+            homepage_url: https://www.spacex.com
+            logo: spacex.svg
+
+  - name: Hardware, Manufacturing & Radiation Hardening
+    subcategories:
+      - name: Infrastructure & Buses
+        items:
+          - name: AAC Clyde Space
+            homepage_url: https://www.aac-clyde.space
+            logo: aac-clyde.svg
+          - name: Agnikul Cosmos
+            homepage_url: https://agnikul.in
+            logo: agnikul.svg
+          - name: Apex Space
+            homepage_url: https://www.apexspace.com
+            logo: apex-space.svg
+          - name: HPE
+            homepage_url: https://www.hpe.com
+            logo: hpe.svg
+          - name: K2 Space
+            homepage_url: https://www.k2space.com
+            logo: k2-space.svg
+          - name: KP Labs
+            homepage_url: https://www.kplabs.space
+            logo: kp-labs.svg
+          - name: Rocket Lab USA
+            homepage_url: https://www.rocketlabusa.com
+            logo: rocket-lab.svg
+          - name: Thales Alenia Space
+            homepage_url: https://www.thalesgroup.com/en/space
+            logo: thales-alenia.svg
+
+  - name: Space Logistics, Servicing & Safety
+    subcategories:
+      - name: Orbital Services
+        items:
+          - name: Arkisys
+            homepage_url: https://www.arkisys.com
+            logo: arkisys.svg
+          - name: D-Orbit
+            homepage_url: https://www.dorbit.space
+            logo: d-orbit.svg
+          - name: Odin Space
+            homepage_url: https://www.odinspace.com
+            logo: odin-space.svg
+          - name: Space Compass
+            homepage_url: https://space-compass.com
+            logo: space-compass.svg
+          - name: ThinkOrbital
+            homepage_url: https://thinkorbital.com
+            logo: thinkorbital.svg
+          - name: TransAstra
+            homepage_url: https://www.transastra.com
+            logo: transastra.svg
+          - name: Vaya Space
+            homepage_url: https://www.vayaspace.com
+            logo: vaya-space.svg
+
+  - name: Sensing, Imagery & Domain Awareness
+    subcategories:
+      - name: Data & Analytics
+        items:
+          - name: Digantara
+            homepage_url: https://www.digantara.co.in
+            logo: digantara.svg
+          - name: HawkEye 360
+            homepage_url: https://www.he360.com
+            logo: hawkeye-360.svg
+          - name: ICEYE
+            homepage_url: https://www.iceye.com
+            logo: iceye.svg
+          - name: iQPS
+            homepage_url: https://i-qps.net
+            logo: iqps.svg
+          - name: Optimum Technologies
+            homepage_url: https://www.optechsolutions.net
+            logo: optimum-tech.svg
+          - name: Planet Labs
+            homepage_url: https://www.planet.com
+            logo: planet.svg
+          - name: Xiomas
+            homepage_url: https://xiomas.com
+            logo: xiomas.svg
+
+  - name: Lunar Exploration & Off-World Hosting
+    subcategories:
+      - name: Lunar Infrastructure
+        items:
+          - name: Intuitive Machines
+            homepage_url: https://www.intuitivemachines.com
+            logo: intuitive-machines.svg
+          - name: Lonestar
+            homepage_url: https://www.lonestarlunar.com
+            logo: lonestar.svg
+          - name: Skycorp
+            homepage_url: https://www.skycorpinc.com
+            logo: skycorp.svg
+
+  - name: Government & Regulatory Agencies
+    subcategories:
+      - name: Agencies
+        items:
+          - name: ESA
+            homepage_url: https://www.esa.int
+            logo: esa.svg
+          - name: ISRO
+            homepage_url: https://www.isro.gov.in
+            logo: isro.svg
+          - name: NASA
+            homepage_url: https://www.nasa.gov
+            logo: nasa.svg
+          - name: NICT
+            homepage_url: https://swc.nict.go.jp/en/
+            logo: nict.svg
+          - name: NOAA SWPC
+            homepage_url: https://www.swpc.noaa.gov/
+            logo: noaa.svg
+          - name: NSIL
+            homepage_url: https://www.nsilindia.co.in
+            logo: nsil.svg
+          - name: SIDC
+            homepage_url: https://www.sidc.be/
+            logo: sidc.svg
+          - name: Space Development Agency (SDA)
+            homepage_url: https://www.sda.mil
+            logo: sda.svg
+          - name: Space Force
+            homepage_url: https://www.spaceforce.mil
+            logo: ussf.svg
+          - name: US Gov
+            homepage_url: https://www.usa.gov
+            logo: usgov.svg

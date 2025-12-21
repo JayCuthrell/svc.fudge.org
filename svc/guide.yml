@@ -1,32 +1,23 @@
-# Landscape2 guide
-#
-# This file allows defining the content of the landscape guide.
-#
-# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/guide.yml
-
+# guide.yml
 categories:
-  - category: "Category 1"
+  - category: "Orbital Compute, Data Processing & AI"
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-    subcategories:
-      - subcategory: "Subcategory 1-1"
-        content: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-      - subcategory: "Subcategory 1-2"
-        content: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-  - category: "Category 2"
+      Focuses on in-orbit data processing, edge computing, and AI hardware optimized for the harsh space environment.
+  - category: "Cloud Extension & Satellite Connectivity"
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-    subcategories:
-      - subcategory: "Subcategory 2-1"
-        content: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-      - subcategory: "Subcategory 2-2"
-        content: |
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Examines the bridge between terrestrial cloud providers and satellite-based connectivity networks.
+  - category: "Hardware, Manufacturing & Radiation Hardening"
+    content: |
+      Covers the development of space-grade hardware, manufacturing techniques, and radiation-hardened components.
+  - category: "Space Logistics, Servicing & Safety"
+    content: |
+      Encompasses in-orbit servicing, debris mitigation, and logistics solutions for sustainable space operations.
+  - category: "Sensing, Imagery & Domain Awareness"
+    content: |
+      Focuses on Earth observation, space situational awareness, and advanced sensing technologies.
+  - category: "Lunar Exploration & Off-World Hosting"
+    content: |
+      Explores infrastructure and services supporting lunar missions and off-world habitats.
+  - category: "Government & Regulatory Agencies"
+    content: |
+      Highlights the role of governmental bodies and regulatory frameworks in shaping the space industry. 
