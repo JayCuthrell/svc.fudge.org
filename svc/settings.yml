@@ -4,15 +4,16 @@ url: http://127.0.0.1:8000
 title: Space Value Chain (SVC)
 description: Visualizing the global Space Value Chain ecosystem.
 
+# svc/settings.yml
 colors:
-  color1: "#006BCC"
-  color2: "#FF00AA"
-  color3: "#6095D6"
-  color4: "#002A51"
-  color5: "#016BCC"
-  color6: "#002A51"
-  color7: "#B4DBFF"
-
+  color1: "rgba(0, 107, 204, 1)"
+  color2: "rgba(255, 0, 170, 1)"
+  color3: "rgba(96, 149, 214, 1)"
+  color4: "rgba(0, 42, 81, 0.7)"
+  color5: "rgba(1, 107, 204, 0.7)"
+  color6: "rgba(0, 42, 81, 0.7)"
+  color7: "rgba(180, 219, 255, 1)"
+  
 grid_items_size: medium
 
 header:
