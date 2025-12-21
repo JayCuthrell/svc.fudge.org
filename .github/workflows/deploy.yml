@@ -14,12 +14,12 @@ jobs:
 
       - name: Build Landscape
         run: |
-          # Pre-create the output directory to avoid permission issues
+          # 1. Prepare workspace and pre-create dist with open permissions
           mkdir -p dist
+          chmod -R 777 .
           
-          # Run the build command as the current runner user to fix os error 13
+          # 2. Run the build (letting it run as root for full access)
           docker run --rm \
-            --user $(id -u):$(id -g) \
             -v $(pwd):/work \
             ghcr.io/cncf/landscape2:latest \
             landscape2 build \
@@ -29,6 +29,9 @@ jobs:
               --games-file /work/games.yml \
               --logos-path /work/logos \
               --output-dir /work/dist
+          
+          # 3. Fix ownership so the runner user can access and deploy the files
+          sudo chown -R $USER:$USER dist
 
       - name: Add CNAME
         run: echo "svc.fudge.org" > dist/CNAME
