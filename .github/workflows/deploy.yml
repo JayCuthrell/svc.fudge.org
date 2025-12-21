@@ -7,7 +7,7 @@ permissions:
   contents: write
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Stable environment for headless chrome dependencies
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,7 +24,7 @@ jobs:
           chmod -R 777 .
           
           # 2. Run the build
-          # -w /work is essential for resolving "logos/svc-logo.svg" from settings.yml
+          # -w /work ensures relative paths in settings.yml resolve to /work/logos/
           # --net=host and seccomp allow the container to use the host's Chromium
           docker run --rm \
             -v $(pwd):/work \
