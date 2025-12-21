@@ -18,17 +18,19 @@ jobs:
           mkdir -p dist
           chmod -R 777 .
           
-          # 2. Run the build (letting it run as root for full access)
+          # 2. Run the build
+          # -w /work ensures relative paths in settings.yml (like logos/svc-logo.svg) resolve correctly
           docker run --rm \
             -v $(pwd):/work \
+            -w /work \
             ghcr.io/cncf/landscape2:latest \
             landscape2 build \
-              --data-file /work/data.yml \
-              --settings-file /work/settings.yml \
-              --guide-file /work/guide.yml \
-              --games-file /work/games.yml \
-              --logos-path /work/logos \
-              --output-dir /work/dist
+              --data-file data.yml \
+              --settings-file settings.yml \
+              --guide-file guide.yml \
+              --games-file games.yml \
+              --logos-path logos \
+              --output-dir dist
           
           # 3. Fix ownership so the runner user can access and deploy the files
           sudo chown -R $USER:$USER dist

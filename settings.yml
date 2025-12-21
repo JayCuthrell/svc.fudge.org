@@ -4,7 +4,6 @@ url: https://svc.fudge.org
 title: Space Value Chain (SVC)
 description: Visualizing the global Space Value Chain ecosystem.
 
-# svc/settings.yml
 colors:
   color1: "rgba(0, 107, 204, 1)"
   color2: "rgba(255, 0, 170, 1)"
