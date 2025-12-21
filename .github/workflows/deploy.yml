@@ -36,9 +36,11 @@ jobs:
         env:
           # Tell landscape2 where to find the browser we just installed
           CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
-
-      - name: Add CNAME
-        run: echo "svc.fudge.org" > dist/CNAME
+          
+      - name: Add CNAME and .nojekyll
+        run: |
+          echo "svc.fudge.org" > dist/CNAME
+          touch dist/.nojekyll  # This stops GitHub from running Jekyll on your files
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
