@@ -50,6 +50,6 @@ groups:
 hide_organization_section_in_projects: false
 
 images:
-  favicon: "images/svc-favicon.png"
-  open_graph: "images/svc-social.png"
+  favicon: "https://raw.githubusercontent.com/JayCuthrell/svc.fudge.org/refs/heads/main/images/svc-favicon.png"
+  open_graph: "https://raw.githubusercontent.com/JayCuthrell/svc.fudge.org/refs/heads/main/images/svc-social.png"
 
