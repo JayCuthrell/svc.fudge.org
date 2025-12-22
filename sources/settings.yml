@@ -1,0 +1,43 @@
+# settings.yml
+foundation: Space Value Chain (SVC)
+url: https://svc.fudge.org
+title: Space Value Chain (SVC)
+description: Visualizing the global Space Value Chain ecosystem.
+
+colors:
+  color1: "rgba(0, 107, 204, 1)"
+  color2: "rgba(255, 0, 170, 1)"
+  color3: "rgba(96, 149, 214, 1)"
+  color4: "rgba(0, 42, 81, 0.7)"
+  color5: "rgba(1, 107, 204, 0.7)"
+  color6: "rgba(0, 42, 81, 0.7)"
+  color7: "rgba(180, 219, 255, 1)"
+  
+screenshot_width: 2048
+
+grid_items_size: medium
+
+header:
+  logo: "logos/svc-logo.svg" # Replace
+  links:
+    github: "https://github.com/JayCuthrell/svc.fudge.org"
+
+footer:
+  logo: "logos/svc-footer-logo.svg" # Replace
+  links:
+    homepage: "https://github.com/JayCuthrell/svc.fudge.org"
+
+groups:
+  - name: Orbital Infrastructure
+    categories:
+      - Orbital Compute, Data Processing & AI
+      - Cloud Extension & Satellite Connectivity
+      - Hardware, Manufacturing & Radiation Hardening
+  - name: Operations & Exploration
+    categories:
+      - Space Logistics, Servicing & Safety
+      - Sensing, Imagery & Domain Awareness
+      - Lunar Exploration & Off-World Hosting
+  - name: Governance
+    categories:
+      - Government & Regulatory Agencies
