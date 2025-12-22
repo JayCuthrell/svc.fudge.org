@@ -15,12 +15,14 @@ colors:
   
 screenshot_width: 2048
 
-grid_items_size: medium
+grid_items_size: large
 
 header:
   logo: "logos/svc-logo.svg" # Replace
   links:
     github: "https://github.com/JayCuthrell/svc.fudge.org"
+  motd: |
+    "Welcome to the Space Value Chain (SVC) Landscape!"
 
 footer:
   logo: "logos/svc-footer-logo.svg" # Replace
@@ -29,15 +31,25 @@ footer:
 
 groups:
   - name: Orbital Infrastructure
+    alias: infrastructure
     categories:
       - Orbital Compute, Data Processing & AI
       - Cloud Extension & Satellite Connectivity
       - Hardware, Manufacturing & Radiation Hardening
   - name: Operations & Exploration
+    alias: operations
     categories:
       - Space Logistics, Servicing & Safety
       - Sensing, Imagery & Domain Awareness
       - Lunar Exploration & Off-World Hosting
   - name: Governance
+    alias: agencies
     categories:
       - Government & Regulatory Agencies
+
+hide_organization_section_in_projects: false
+
+images:
+  favicon: "https://svc.fudge.org/images/svc-favicon.png"
+  open_graph: "https://svc.fudge.org/images/svc-social.jpg"
+

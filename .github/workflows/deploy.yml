@@ -41,6 +41,10 @@ jobs:
         run: |
           echo "svc.fudge.org" > dist/CNAME
           touch dist/.nojekyll  # This stops GitHub from running Jekyll on your files
+          # Ensure custom images are moved to the production folder
+          if [ -d "images" ]; then
+            cp -r images dist/
+          fi
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
