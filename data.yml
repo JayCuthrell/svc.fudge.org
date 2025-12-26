@@ -20,7 +20,7 @@ categories:
             description: Edge computing and cloud services for low Earth orbit.
             homepage_url: https://leocloud.space
             logo: leocloud.svg
-          - name: Nvidia
+          - name: NVIDIA
             description: GPU-accelerated computing and AI hardware for space.
             homepage_url: https://www.nvidia.com
             logo: nvidia.svg
@@ -130,6 +130,36 @@ categories:
             description: Major manufacturer of satellites and orbital modules.
             homepage_url: https://www.thalesgroup.com/en/space
             logo: thales-alenia.svg
+          - name: Blue Origin
+            description: Heavy-lift launch vehicles (New Glenn) and orbital habitats (Orbital Reef).
+            homepage_url: https://www.blueorigin.com
+            logo: blue-origin.svg
+          - name: Sierra Space
+            description: Spaceplane logistics (Dream Chaser) and expandable habitats (LIFE).
+            homepage_url: https://www.sierraspace.com
+            logo: sierra-space.svg
+          - name: Relativity Space
+            description: 3D printed launch vehicles and autonomous manufacturing.
+            homepage_url: https://www.relativityspace.com
+            logo: relativity-space.svg
+          - name: Firefly Aerospace
+            description: End-to-end space transportation and lunar lander services.
+            homepage_url: https://fireflyspace.com
+            logo: firefly-aerospace.svg
+      - name: In-Space Servicing, Assembly, and Manufacturing (ISAM)
+        items:
+          - name: Redwire Space
+            description: Orbital infrastructure, 3D printing (Archinaut), and deployable structures.
+            homepage_url: https://redwirespace.com
+            logo: redwire-space.svg
+          - name: Varda Space Industries
+            description: Microgravity manufacturing and reentry capsules for pharmaceuticals.
+            homepage_url: https://www.varda.com
+            logo: varda-space.svg
+          - name: Made In Space (Redwire)
+            description: Pioneering additive manufacturing in microgravity environments.
+            homepage_url: https://redwirespace.com
+            logo: made-in-space.svg
 
   - name: Space Logistics, Servicing & Safety
     subcategories:
@@ -163,6 +193,14 @@ categories:
             description: Hybrid engine technology and launch service provider.
             homepage_url: https://www.vayaspace.com
             logo: vaya-space.svg
+          - name: Astroscale
+            description: Active debris removal and satellite end-of-life extension services.
+            homepage_url: https://astroscale.com
+            logo: astroscale.svg
+          - name: ClearSpace
+            description: In-orbit servicing and active debris removal missions.
+            homepage_url: https://clearspace.today
+            logo: clearspace.svg
 
   - name: Sensing, Imagery & Domain Awareness
     subcategories:
@@ -196,6 +234,22 @@ categories:
             description: Advanced thermal imaging and remote sensing systems.
             homepage_url: https://xiomas.com
             logo: xiomas.svg
+          - name: Capella Space
+            description: High-resolution Synthetic Aperture Radar (SAR) on demand.
+            homepage_url: https://www.capellaspace.com
+            logo: capella-space.svg
+          - name: Pixxel
+            description: Hyperspectral earth imaging constellation for chemical/agricultural analysis.
+            homepage_url: https://www.pixxel.space
+            logo: pixxel.svg
+          - name: Albedo
+            description: VLEO satellites offering aerial-quality thermal and optical imagery.
+            homepage_url: https://albedo.com
+            logo: albedo.svg
+          - name: GHGSat
+            description: High-precision greenhouse gas monitoring from space.
+            homepage_url: https://www.ghgsat.com
+            logo: ghgsat.svg
 
   - name: Lunar Exploration & Off-World Hosting
     subcategories:

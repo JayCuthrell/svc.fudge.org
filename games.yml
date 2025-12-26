@@ -6,15 +6,15 @@
 
 quiz:
   questions:
-    - title: "Which of the following items have feature X?"
+    - title: "Which of the following companies placed more payloads into orbit in 2025?"
       options:
-        - item: Item 1
+        - item: SpaceX
           correct: true
-        - item: Item 2
-        - item: Item 3
-    - title: "Please select the item with feature Y"
+        - item: Blue Origin
+        - item: Google
+    - title: "Which organization had the most launches in 2025?"
       options:
-        - item: Item 1
-        - item: Item 2
-        - item: Item 3
+        - item: NASA
+        - item: Blue Origin
+        - item: SpaceX
           correct: true
