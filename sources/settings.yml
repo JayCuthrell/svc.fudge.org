@@ -22,7 +22,7 @@ header:
   links:
     github: "https://github.com/JayCuthrell/svc.fudge.org"
   motd: |
-    "Welcome to the Space Value Chain (SVC) Landscape!"
+    Welcome to the Space Value Chain (SVC) Landscape!
 
 footer:
   logo: "logos/svc-footer-logo.svg" # Replace
