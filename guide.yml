@@ -8,7 +8,7 @@ categories:
       Examines the bridge between terrestrial cloud providers and satellite-based connectivity networks.
   - category: "Hardware, Manufacturing & Radiation Hardening"
     content: |
-      Covers the development of space-grade hardware, manufacturing techniques, and radiation-hardened components.
+      Covers the development of space-grade hardware, including advanced propulsion, shielding materials, manufacturing techniques, and radiation-hardened electronics.
   - category: "Space Logistics, Servicing & Safety"
     content: |
       Encompasses in-orbit servicing, debris mitigation, and logistics solutions for sustainable space operations.
@@ -20,4 +20,5 @@ categories:
       Explores infrastructure and services supporting lunar missions and off-world habitats.
   - category: "Government & Regulatory Agencies"
     content: |
-      Highlights the role of governmental bodies and regulatory frameworks in shaping the space industry. 
+      Highlights the role of governmental bodies and regulatory frameworks in shaping the space industry.
+  
