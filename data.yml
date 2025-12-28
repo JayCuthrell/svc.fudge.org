@@ -24,10 +24,6 @@ categories:
             description: Clean computing infrastructure expanding to orbital edge.
             homepage_url: https://www.crusoe.ai
             logo: crusoe.svg
-          - name: LEOcloud
-            description: Edge computing and cloud services for low Earth orbit.
-            homepage_url: https://leocloud.space
-            logo: leocloud.svg
           - name: NVIDIA
             description: GPU-accelerated computing and AI hardware for space.
             homepage_url: https://www.nvidia.com
@@ -246,14 +242,14 @@ categories:
             description: Mass-manufactured Hall-effect propulsion systems (Aurora).
             homepage_url: https://orbionspace.com
             logo: orbion-space.svg
-          - name: Phase Four
-            description: Maxwell and Valkyrie RF thrusters for satellite propulsion.
-            homepage_url: https://phasefour.io
-            logo: phase-four.svg
           - name: RocketStar
             description: Electric propulsion units enhanced by aneutronic nuclear fusion.
             homepage_url: https://rocketstar.nyc
             logo: rocketstar.svg
+          - name: Quantum Space
+            description: Maxwell and Valkyrie RF thrusters for satellite propulsion.
+            homepage_url: https://www.quantumspace.us
+            logo: quantum-space.svg
           - name: Zeno Power
             description: Radioisotope power systems (RPS) for long-duration missions.
             homepage_url: https://www.zenopower.com
