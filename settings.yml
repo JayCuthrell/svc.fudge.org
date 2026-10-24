@@ -18,7 +18,7 @@ screenshot_width: 2048
 grid_items_size: large
 
 header:
-  logo: "logos/svc-logo.svg" # Replace
+  logo: "images/svc-header.jpg"
   links:
     github: "https://github.com/JayCuthrell/svc.fudge.org"
   motd: |
