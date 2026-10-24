@@ -6,298 +6,298 @@ categories:
   subcategories:
   - name: Launch Providers
     items:
-    - {name: SpaceX, description: Reusable Falcon launch services, Starship development, and crew and cargo transportation., homepage_url: 'https://www.spacex.com', logo: spacex.svg}
-    - {name: Rocket Lab, description: Electron and HASTE launch services plus the Neutron medium-lift vehicle program., homepage_url: 'https://www.rocketlabusa.com', logo: rocket-lab.svg}
-    - {name: Blue Origin, description: New Glenn orbital launch, New Shepard suborbital flights, and lunar transportation., homepage_url: 'https://www.blueorigin.com', logo: blue-origin.svg}
-    - {name: United Launch Alliance (ULA), description: Vulcan launch services for commercial, civil, and national-security missions., homepage_url: 'https://www.ulalaunch.com', logo: ula.svg}
-    - {name: Firefly Aerospace, description: Alpha launch, Elytra orbital vehicles, and Blue Ghost lunar delivery services., homepage_url: 'https://fireflyspace.com', logo: firefly-aerospace.svg}
-    - {name: Relativity Space, description: Developing the reusable Terran R medium-to-heavy-lift launch vehicle., homepage_url: 'https://www.relativityspace.com', logo: relativity-space.svg}
-    - {name: Stoke Space, description: Developing the fully and rapidly reusable Nova launch vehicle., homepage_url: 'https://www.stokespace.com', logo: stoke-space.svg}
-    - {name: Arianespace, description: Ariane 6 and Vega-C launch services for institutional and commercial customers., homepage_url: 'https://www.arianespace.com', logo: arianespace.svg}
-    - {name: Avio, description: Vega launch vehicles and propulsion systems for space access., homepage_url: 'https://www.avio.com', logo: avio.svg}
-    - {name: Isar Aerospace, description: Spectrum launch vehicles for small and medium satellite payloads., homepage_url: 'https://www.isaraerospace.com', logo: isar-aerospace.svg}
-    - {name: Rocket Factory Augsburg, description: Developing the RFA ONE launch vehicle and associated launch infrastructure., homepage_url: 'https://www.rfa.space', logo: rocket-factory-augsburg.svg}
-    - {name: PLD Space, description: Miura launch vehicles and reusable space transportation technologies., homepage_url: 'https://www.pldspace.com', logo: pld-space.svg}
-    - {name: MaiaSpace, description: ArianeGroup-backed developer of the reusable Maia small launch vehicle., homepage_url: 'https://www.maiaspace.com', logo: maiaspace.svg}
-    - {name: HyImpulse, description: Hybrid-propellant SL1 orbital and SR75 suborbital launch vehicles., homepage_url: 'https://www.hyimpulse.de', logo: hyimpulse.svg}
-    - {name: Gilmour Space Technologies, description: Eris orbital launch vehicles and Australian launch services., homepage_url: 'https://www.gspace.com', logo: gilmour-space-technologies.svg}
-    - {name: Agnikul Cosmos, description: Configurable Agnibaan launch vehicles using 3D-printed semi-cryogenic engines., homepage_url: 'https://agnikul.in', logo: agnikul.svg}
-    - {name: Skyroot Aerospace, description: Vikram-series launch vehicles for dedicated small-satellite missions., homepage_url: 'https://www.skyroot.in', logo: skyroot-aerospace.svg}
-    - {name: Mitsubishi Heavy Industries, description: H-IIA and H3 launch services for institutional and commercial missions., homepage_url: 'https://www.mhi.com/products/space/', logo: mitsubishi-heavy-industries.svg}
-    - {name: LandSpace, description: Zhuque methane-fueled launch vehicles and reusable rocket development., homepage_url: 'https://www.landspace.com', logo: landspace.svg}
-    - {name: Galactic Energy, description: Ceres and Pallas commercial launch vehicles., homepage_url: 'https://www.galactic-energy.cn', logo: galactic-energy.svg}
-    - {name: i-Space, description: Hyperbola commercial launch vehicles and reusable rocket development., homepage_url: 'https://www.i-space.com.cn', logo: i-space.svg}
-    - {name: CAS Space, description: Kinetica commercial launch vehicles and space transportation services., homepage_url: 'https://www.cas-space.com', logo: cas-space.svg}
-    - {name: Orienspace, description: Gravity-series commercial launch vehicles, including sea-launched missions., homepage_url: 'https://www.orienspace.com', logo: orienspace.svg}
-    - {name: Space Pioneer, description: Tianlong liquid-propellant commercial launch vehicles., homepage_url: 'https://www.spacepioneer.cc', logo: space-pioneer.svg}
-    - {name: Vaya Space, description: Vortex hybrid propulsion and Dauntless launch vehicle development., homepage_url: 'https://www.vayaspace.com', logo: vaya-space.svg}
-    - {name: Phantom Space, description: Developing Daytona launch vehicles and mass-produced space transportation systems., homepage_url: 'https://www.phantomspace.com', logo: phantom-space.svg}
+    - {name: SpaceX, description: 'Reusable Falcon launch services, Starship development, and crew and cargo transportation.', homepage_url: 'https://www.spacex.com', logo: spacex.svg}
+    - {name: Rocket Lab, description: 'Electron and HASTE launch services plus the Neutron medium-lift vehicle program.', homepage_url: 'https://www.rocketlabusa.com', logo: rocket-lab.svg}
+    - {name: Blue Origin, description: 'New Glenn orbital launch, New Shepard suborbital flights, and lunar transportation.', homepage_url: 'https://www.blueorigin.com', logo: blue-origin.svg}
+    - {name: United Launch Alliance (ULA), description: 'Vulcan launch services for commercial, civil, and national-security missions.', homepage_url: 'https://www.ulalaunch.com', logo: ula.svg}
+    - {name: Firefly Aerospace, description: 'Alpha launch, Elytra orbital vehicles, and Blue Ghost lunar delivery services.', homepage_url: 'https://fireflyspace.com', logo: firefly-aerospace.svg}
+    - {name: Relativity Space, description: 'Developing the reusable Terran R medium-to-heavy-lift launch vehicle.', homepage_url: 'https://www.relativityspace.com', logo: relativity-space.svg}
+    - {name: Stoke Space, description: 'Developing the fully and rapidly reusable Nova launch vehicle.', homepage_url: 'https://www.stokespace.com', logo: stoke-space.svg}
+    - {name: Arianespace, description: 'Ariane 6 and Vega-C launch services for institutional and commercial customers.', homepage_url: 'https://www.arianespace.com', logo: arianespace.svg}
+    - {name: Avio, description: 'Vega launch vehicles and propulsion systems for space access.', homepage_url: 'https://www.avio.com', logo: avio.svg}
+    - {name: Isar Aerospace, description: 'Spectrum launch vehicles for small and medium satellite payloads.', homepage_url: 'https://www.isaraerospace.com', logo: isar-aerospace.svg}
+    - {name: Rocket Factory Augsburg, description: 'Developing the RFA ONE launch vehicle and associated launch infrastructure.', homepage_url: 'https://www.rfa.space', logo: rocket-factory-augsburg.svg}
+    - {name: PLD Space, description: 'Miura launch vehicles and reusable space transportation technologies.', homepage_url: 'https://www.pldspace.com', logo: pld-space.svg}
+    - {name: MaiaSpace, description: 'ArianeGroup-backed developer of the reusable Maia small launch vehicle.', homepage_url: 'https://www.maiaspace.com', logo: maiaspace.svg}
+    - {name: HyImpulse, description: 'Hybrid-propellant SL1 orbital and SR75 suborbital launch vehicles.', homepage_url: 'https://www.hyimpulse.de', logo: hyimpulse.svg}
+    - {name: Gilmour Space Technologies, description: 'Eris orbital launch vehicles and Australian launch services.', homepage_url: 'https://www.gspace.com', logo: gilmour-space-technologies.svg}
+    - {name: Agnikul Cosmos, description: 'Configurable Agnibaan launch vehicles using 3D-printed semi-cryogenic engines.', homepage_url: 'https://agnikul.in', logo: agnikul.svg}
+    - {name: Skyroot Aerospace, description: 'Vikram-series launch vehicles for dedicated small-satellite missions.', homepage_url: 'https://www.skyroot.in', logo: skyroot-aerospace.svg}
+    - {name: Mitsubishi Heavy Industries, description: 'H-IIA and H3 launch services for institutional and commercial missions.', homepage_url: 'https://www.mhi.com/products/space/', logo: mitsubishi-heavy-industries.svg}
+    - {name: LandSpace, description: 'Zhuque methane-fueled launch vehicles and reusable rocket development.', homepage_url: 'https://www.landspace.com', logo: landspace.svg}
+    - {name: Galactic Energy, description: 'Ceres and Pallas commercial launch vehicles.', homepage_url: 'https://www.galactic-energy.cn', logo: galactic-energy.svg}
+    - {name: i-Space, description: 'Hyperbola commercial launch vehicles and reusable rocket development.', homepage_url: 'https://www.i-space.com.cn', logo: i-space.svg}
+    - {name: CAS Space, description: 'Kinetica commercial launch vehicles and space transportation services.', homepage_url: 'https://www.cas-space.com', logo: cas-space.svg}
+    - {name: Orienspace, description: 'Gravity-series commercial launch vehicles, including sea-launched missions.', homepage_url: 'https://www.orienspace.com', logo: orienspace.svg}
+    - {name: Space Pioneer, description: 'Tianlong liquid-propellant commercial launch vehicles.', homepage_url: 'https://www.spacepioneer.cc', logo: space-pioneer.svg}
+    - {name: Vaya Space, description: 'Vortex hybrid propulsion and Dauntless launch vehicle development.', homepage_url: 'https://www.vayaspace.com', logo: vaya-space.svg}
+    - {name: Phantom Space, description: 'Developing Daytona launch vehicles and mass-produced space transportation systems.', homepage_url: 'https://www.phantomspace.com', logo: phantom-space.svg}
   - name: Rideshare, Integration & Deployment
     items:
-    - {name: Exolaunch, description: Launch mission management, satellite integration, deployment hardware, and orbital transfer., homepage_url: 'https://exolaunch.com', logo: exolaunch.svg}
-    - {name: D-Orbit, description: ION orbital transportation, satellite deployment, and in-orbit logistics services., homepage_url: 'https://www.dorbit.space', logo: d-orbit.svg}
-    - {name: SEOPS, description: Launch integration, rideshare brokerage, and deployment services., homepage_url: 'https://www.seops.space', logo: seops.svg}
-    - {name: ISISPACE, description: Small-satellite launch integration, deployers, and turnkey mission services., homepage_url: 'https://www.isispace.nl', logo: isispace.svg}
+    - {name: Exolaunch, description: 'Launch mission management, satellite integration, deployment hardware, and orbital transfer.', homepage_url: 'https://exolaunch.com', logo: exolaunch.svg}
+    - {name: D-Orbit, description: 'ION orbital transportation, satellite deployment, and in-orbit logistics services.', homepage_url: 'https://www.dorbit.space', logo: d-orbit.svg}
+    - {name: SEOPS, description: 'Launch integration, rideshare brokerage, and deployment services.', homepage_url: 'https://www.seops.space', logo: seops.svg}
+    - {name: ISISPACE, description: 'Small-satellite launch integration, deployers, and turnkey mission services.', homepage_url: 'https://www.isispace.nl', logo: isispace.svg}
 - name: Spacecraft Manufacturing & Orbital Infrastructure
   subcategories:
   - name: Prime Contractors & Satellite Platforms
     items:
-    - {name: Airbus Defence and Space, description: Satellite platforms, space systems, exploration hardware, and Starlab partnership., homepage_url: 'https://www.airbus.com/en/space', logo: airbus-defence-and-space.svg}
-    - {name: 'Boeing Defense, Space & Security', description: Satellites, crewed spacecraft, and national-security space systems., homepage_url: 'https://www.boeing.com/space', logo: boeing.svg}
-    - {name: Lockheed Martin Space, description: Satellite manufacturing, missile-warning systems, Orion, and deep-space missions., homepage_url: 'https://www.lockheedmartin.com/en-us/who-we-are/business-areas/space.html', logo: lockheed-martin-space.svg}
-    - {name: Northrop Grumman, description: Spacecraft, propulsion, mission systems, and SpaceLogistics servicing vehicles., homepage_url: 'https://www.northropgrumman.com/space', logo: northrop-grumman.svg}
-    - {name: Thales Alenia Space, description: Telecommunications, observation, navigation, exploration, and orbital infrastructure., homepage_url: 'https://www.thalesaleniaspace.com', logo: thales-alenia.svg}
-    - {name: OHB SE, description: Satellite platforms, space systems, and European institutional programs., homepage_url: 'https://www.ohb.de', logo: ohb-se.svg}
-    - {name: MDA Space, description: Satellite systems, space robotics, and geointelligence products., homepage_url: 'https://mda.space', logo: mda-space.svg}
-    - {name: Lanteris Space Systems, description: Satellite manufacturing and space infrastructure business within Intuitive Machines., homepage_url: 'https://www.lanterisspace.com', logo: lanteris-space-systems.svg}
-    - {name: L3Harris Technologies, description: Space payloads, missile-warning satellites, sensors, and propulsion systems., homepage_url: 'https://www.l3harris.com', logo: l3harris-technologies.svg}
-    - {name: RTX, description: Space sensors, instruments, ground systems, and resilient defense architectures., homepage_url: 'https://www.rtx.com/what-we-do/space', logo: rtx.svg}
-    - {name: Mitsubishi Electric, description: Satellite platforms, payloads, and space-grade electronic systems., homepage_url: 'https://www.mitsubishielectric.com/', logo: mitsubishi-electric.svg}
-    - {name: NEC Space Technologies, description: Satellite buses, payloads, and space communication systems., homepage_url: 'https://www.nec.com/en/global/space', logo: nec-space-technologies.svg}
-    - {name: Surrey Satellite Technology (SSTL), description: Small-satellite platforms and turnkey missions for commercial and institutional users., homepage_url: 'https://www.sstl.co.uk', logo: surrey-satellite-technology.svg}
-    - {name: HEMERIA, description: Small satellites, payloads, and space systems for commercial and sovereign missions., homepage_url: 'https://www.hemeria-group.com', logo: hemeria.svg}
-    - {name: Terran Orbital, description: Small-satellite design, manufacturing, and mission solutions within Lockheed Martin., homepage_url: 'https://terranorbital.com', logo: terran-orbital.svg}
-    - {name: York Space Systems, description: Standardized satellite platforms and national-security space missions., homepage_url: 'https://www.yorkspacesystems.com', logo: york-space-systems.svg}
-    - {name: Apex Space, description: Productized satellite buses manufactured for constellation-scale deployment., homepage_url: 'https://www.apexspace.com', logo: apex-space.svg}
-    - {name: K2 Space, description: High-power, large satellite platforms designed for heavy-lift launch economics., homepage_url: 'https://www.k2space.com', logo: k2-space.svg}
-    - {name: Loft Orbital, description: Shared satellite infrastructure and payload hosting as a service., homepage_url: 'https://loftorbital.com', logo: loft-orbital.svg}
-    - {name: AAC Clyde Space, description: Small-satellite platforms, subsystems, and space-data services., homepage_url: 'https://www.aac-clyde.space', logo: aac-clyde-space.svg}
-    - {name: Aerospacelab, description: Vertically integrated satellite platforms and constellation manufacturing., homepage_url: 'https://www.aerospacelab.be', logo: aerospacelab.svg}
-    - {name: EnduroSat, description: Modular satellites, shared missions, and high-volume spacecraft manufacturing., homepage_url: 'https://www.endurosat.com', logo: endurosat.svg}
-    - {name: Kongsberg NanoAvionics, description: Small-satellite buses, mission services, and constellation technologies., homepage_url: 'https://nanoavionics.com', logo: kongsberg-nanoavionics.svg}
-    - {name: GomSpace, description: Nanostellite platforms, subsystems, and constellation solutions., homepage_url: 'https://gomspace.com', logo: gomspace.svg}
-    - {name: Open Cosmos, description: End-to-end satellite missions and shared Earth-observation and connectivity infrastructure., homepage_url: 'https://www.open-cosmos.com', logo: open-cosmos.svg}
-    - {name: SITAEL, description: Satellite platforms, electric propulsion, and space electronics., homepage_url: 'https://www.sitael.com', logo: sitael.svg}
-    - {name: Dhruva Space, description: Full-stack small-satellite platforms, launch integration, and ground systems., homepage_url: 'https://www.dhruvaspace.com', logo: dhruva-space.svg}
-    - {name: Sidus Space, description: Satellite manufacturing, payload hosting, and space-based data services., homepage_url: 'https://sidusspace.com', logo: sidus-space.svg}
+    - {name: Airbus Defence and Space, description: 'Satellite platforms, space systems, exploration hardware, and Starlab partnership.', homepage_url: 'https://www.airbus.com/en/space', logo: airbus-defence-and-space.svg}
+    - {name: 'Boeing Defense, Space & Security', description: 'Satellites, crewed spacecraft, and national-security space systems.', homepage_url: 'https://www.boeing.com/space', logo: boeing.svg}
+    - {name: Lockheed Martin Space, description: 'Satellite manufacturing, missile-warning systems, Orion, and deep-space missions.', homepage_url: 'https://www.lockheedmartin.com/en-us/who-we-are/business-areas/space.html', logo: lockheed-martin-space.svg}
+    - {name: Northrop Grumman, description: 'Spacecraft, propulsion, mission systems, and SpaceLogistics servicing vehicles.', homepage_url: 'https://www.northropgrumman.com/space', logo: northrop-grumman.svg}
+    - {name: Thales Alenia Space, description: 'Telecommunications, observation, navigation, exploration, and orbital infrastructure.', homepage_url: 'https://www.thalesaleniaspace.com', logo: thales-alenia.svg}
+    - {name: OHB SE, description: 'Satellite platforms, space systems, and European institutional programs.', homepage_url: 'https://www.ohb.de', logo: ohb-se.svg}
+    - {name: MDA Space, description: 'Satellite systems, space robotics, and geointelligence products.', homepage_url: 'https://mda.space', logo: mda-space.svg}
+    - {name: Lanteris Space Systems, description: 'Satellite manufacturing and space infrastructure business within Intuitive Machines.', homepage_url: 'https://www.lanterisspace.com', logo: lanteris-space-systems.svg}
+    - {name: L3Harris Technologies, description: 'Space payloads, missile-warning satellites, sensors, and propulsion systems.', homepage_url: 'https://www.l3harris.com', logo: l3harris-technologies.svg}
+    - {name: RTX, description: 'Space sensors, instruments, ground systems, and resilient defense architectures.', homepage_url: 'https://www.rtx.com/what-we-do/space', logo: rtx.svg}
+    - {name: Mitsubishi Electric, description: 'Satellite platforms, payloads, and space-grade electronic systems.', homepage_url: 'https://www.mitsubishielectric.com/', logo: mitsubishi-electric.svg}
+    - {name: NEC Space Technologies, description: 'Satellite buses, payloads, and space communication systems.', homepage_url: 'https://www.nec.com/en/global/space', logo: nec-space-technologies.svg}
+    - {name: Surrey Satellite Technology (SSTL), description: 'Small-satellite platforms and turnkey missions for commercial and institutional users.', homepage_url: 'https://www.sstl.co.uk', logo: surrey-satellite-technology.svg}
+    - {name: HEMERIA, description: 'Small satellites, payloads, and space systems for commercial and sovereign missions.', homepage_url: 'https://www.hemeria-group.com', logo: hemeria.svg}
+    - {name: Terran Orbital, description: 'Small-satellite design, manufacturing, and mission solutions within Lockheed Martin.', homepage_url: 'https://terranorbital.com', logo: terran-orbital.svg}
+    - {name: York Space Systems, description: 'Standardized satellite platforms and national-security space missions.', homepage_url: 'https://www.yorkspacesystems.com', logo: york-space-systems.svg}
+    - {name: Apex Space, description: 'Productized satellite buses manufactured for constellation-scale deployment.', homepage_url: 'https://www.apexspace.com', logo: apex-space.svg}
+    - {name: K2 Space, description: 'High-power, large satellite platforms designed for heavy-lift launch economics.', homepage_url: 'https://www.k2space.com', logo: k2-space.svg}
+    - {name: Loft Orbital, description: 'Shared satellite infrastructure and payload hosting as a service.', homepage_url: 'https://loftorbital.com', logo: loft-orbital.svg}
+    - {name: AAC Clyde Space, description: 'Small-satellite platforms, subsystems, and space-data services.', homepage_url: 'https://www.aac-clyde.space', logo: aac-clyde-space.svg}
+    - {name: Aerospacelab, description: 'Vertically integrated satellite platforms and constellation manufacturing.', homepage_url: 'https://www.aerospacelab.be', logo: aerospacelab.svg}
+    - {name: EnduroSat, description: 'Modular satellites, shared missions, and high-volume spacecraft manufacturing.', homepage_url: 'https://www.endurosat.com', logo: endurosat.svg}
+    - {name: Kongsberg NanoAvionics, description: 'Small-satellite buses, mission services, and constellation technologies.', homepage_url: 'https://nanoavionics.com', logo: kongsberg-nanoavionics.svg}
+    - {name: GomSpace, description: 'Nanostellite platforms, subsystems, and constellation solutions.', homepage_url: 'https://gomspace.com', logo: gomspace.svg}
+    - {name: Open Cosmos, description: 'End-to-end satellite missions and shared Earth-observation and connectivity infrastructure.', homepage_url: 'https://www.open-cosmos.com', logo: open-cosmos.svg}
+    - {name: SITAEL, description: 'Satellite platforms, electric propulsion, and space electronics.', homepage_url: 'https://www.sitael.com', logo: sitael.svg}
+    - {name: Dhruva Space, description: 'Full-stack small-satellite platforms, launch integration, and ground systems.', homepage_url: 'https://www.dhruvaspace.com', logo: dhruva-space.svg}
+    - {name: Sidus Space, description: 'Satellite manufacturing, payload hosting, and space-based data services.', homepage_url: 'https://sidusspace.com', logo: sidus-space.svg}
   - name: Commercial Stations & Habitats
     items:
-    - {name: Axiom Space, description: Commercial space station modules, private astronaut missions, and spacesuits., homepage_url: 'https://www.axiomspace.com', logo: axiom-space.svg}
-    - {name: Vast, description: Haven commercial space stations and artificial-gravity habitat development., homepage_url: 'https://www.vastspace.com', logo: vast.svg}
-    - {name: Voyager Technologies, description: Starlab commercial space station and civil and national-security space infrastructure., homepage_url: 'https://voyagertechnologies.com', logo: voyager-space.svg}
-    - {name: Sierra Space, description: Dream Chaser spaceplane, LIFE expandable habitats, and Orbital Reef partnership., homepage_url: 'https://www.sierraspace.com', logo: sierra-space.svg}
-    - {name: Gravitics, description: Large-diameter space-station modules and orbital infrastructure platforms., homepage_url: 'https://www.gravitics.com', logo: gravitics.svg}
-    - {name: Max Space, description: Expandable habitat technologies for commercial and exploration missions., homepage_url: 'https://www.maxspace.com', logo: max-space.svg}
+    - {name: Axiom Space, description: 'Commercial space station modules, private astronaut missions, and spacesuits.', homepage_url: 'https://www.axiomspace.com', logo: axiom-space.svg}
+    - {name: Vast, description: 'Haven commercial space stations and artificial-gravity habitat development.', homepage_url: 'https://www.vastspace.com', logo: vast.svg}
+    - {name: Voyager Technologies, description: 'Starlab commercial space station and civil and national-security space infrastructure.', homepage_url: 'https://voyagertechnologies.com', logo: voyager-space.svg}
+    - {name: Sierra Space, description: 'Dream Chaser spaceplane, LIFE expandable habitats, and Orbital Reef partnership.', homepage_url: 'https://www.sierraspace.com', logo: sierra-space.svg}
+    - {name: Gravitics, description: 'Large-diameter space-station modules and orbital infrastructure platforms.', homepage_url: 'https://www.gravitics.com', logo: gravitics.svg}
+    - {name: Max Space, description: 'Expandable habitat technologies for commercial and exploration missions.', homepage_url: 'https://www.maxspace.com', logo: max-space.svg}
 - name: Components, Subsystems & Enabling Hardware
   subcategories:
   - name: Electronics, Semiconductors & Instruments
     items:
-    - {name: Apogee Semiconductor, description: Radiation-hardened integrated circuits and interface products., homepage_url: 'https://apogeesemi.com', logo: apogee-semiconductor.svg}
-    - {name: Vorago Technologies, description: Radiation-hardened microcontrollers and HARDSIL semiconductor technology., homepage_url: 'https://www.voragotech.com', logo: vorago-technologies.svg}
-    - {name: Frontgrade Technologies, description: Radiation-hardened processors, electronics, and mission-critical space systems., homepage_url: 'https://frontgrade.com', logo: frontgrade-technologies.svg}
-    - {name: BAE Systems Space & Mission Systems, description: Space electronics, payloads, rad-hard processors, and mission systems., homepage_url: 'https://www.baesystems.com/en-us/our-company/inc-businesses/space-and-mission-systems', logo: bae-systems-space-and-mission-systems.svg}
-    - {name: Microchip Technology, description: Radiation-tolerant and radiation-hardened space semiconductors and timing systems., homepage_url: 'https://www.microchip.com/', logo: microchip-technology.svg}
-    - {name: Infineon Technologies, description: Radiation-hardened power, memory, and semiconductor solutions for space., homepage_url: 'https://www.infineon.com/', logo: infineon-technologies.svg}
-    - {name: STMicroelectronics, description: Radiation-hardened space electronics and qualified semiconductor components., homepage_url: 'https://www.st.com/', logo: stmicroelectronics.svg}
-    - {name: Renesas Electronics, description: Radiation-hardened power, signal-chain, and computing semiconductors., homepage_url: 'https://www.renesas.com/en/applications/aerospace-defense/space', logo: renesas-electronics.svg}
-    - {name: Teledyne Technologies, description: Space imaging sensors, instruments, digital electronics, and scientific payloads., homepage_url: 'https://www.teledyne.com/', logo: teledyne-technologies.svg}
-    - {name: Mercury Systems, description: Rugged and radiation-tolerant processing, RF, and microelectronics for space., homepage_url: 'https://www.mrcy.com/applications/space', logo: mercury-systems.svg}
-    - {name: Honeywell Aerospace, description: Guidance, navigation, control, reaction wheels, and space electronics., homepage_url: 'https://aerospace.honeywell.com', logo: honeywell-aerospace.svg}
-    - {name: 3D PLUS, description: Radiation-tolerant high-reliability microelectronics and camera modules., homepage_url: 'https://www.3d-plus.com', logo: 3d-plus.svg}
+    - {name: Apogee Semiconductor, description: 'Radiation-hardened integrated circuits and interface products.', homepage_url: 'https://apogeesemi.com', logo: apogee-semiconductor.svg}
+    - {name: Vorago Technologies, description: 'Radiation-hardened microcontrollers and HARDSIL semiconductor technology.', homepage_url: 'https://www.voragotech.com', logo: vorago-technologies.svg}
+    - {name: Frontgrade Technologies, description: 'Radiation-hardened processors, electronics, and mission-critical space systems.', homepage_url: 'https://frontgrade.com', logo: frontgrade-technologies.svg}
+    - {name: BAE Systems Space & Mission Systems, description: 'Space electronics, payloads, rad-hard processors, and mission systems.', homepage_url: 'https://www.baesystems.com/en-us/our-company/inc-businesses/space-and-mission-systems', logo: bae-systems-space-and-mission-systems.svg}
+    - {name: Microchip Technology, description: 'Radiation-tolerant and radiation-hardened space semiconductors and timing systems.', homepage_url: 'https://www.microchip.com/', logo: microchip-technology.svg}
+    - {name: Infineon Technologies, description: 'Radiation-hardened power, memory, and semiconductor solutions for space.', homepage_url: 'https://www.infineon.com/', logo: infineon-technologies.svg}
+    - {name: STMicroelectronics, description: 'Radiation-hardened space electronics and qualified semiconductor components.', homepage_url: 'https://www.st.com/', logo: stmicroelectronics.svg}
+    - {name: Renesas Electronics, description: 'Radiation-hardened power, signal-chain, and computing semiconductors.', homepage_url: 'https://www.renesas.com/en/applications/aerospace-defense/space', logo: renesas-electronics.svg}
+    - {name: Teledyne Technologies, description: 'Space imaging sensors, instruments, digital electronics, and scientific payloads.', homepage_url: 'https://www.teledyne.com/', logo: teledyne-technologies.svg}
+    - {name: Mercury Systems, description: 'Rugged and radiation-tolerant processing, RF, and microelectronics for space.', homepage_url: 'https://www.mrcy.com/applications/space', logo: mercury-systems.svg}
+    - {name: Honeywell Aerospace, description: 'Guidance, navigation, control, reaction wheels, and space electronics.', homepage_url: 'https://aerospace.honeywell.com', logo: honeywell-aerospace.svg}
+    - {name: 3D PLUS, description: 'Radiation-tolerant high-reliability microelectronics and camera modules.', homepage_url: 'https://www.3d-plus.com', logo: 3d-plus.svg}
   - name: ADCS, Communications & Optical Systems
     items:
-    - {name: Beyond Gravity, description: Satellite structures, mechanisms, thermal hardware, electronics, and launch fairings., homepage_url: 'https://www.beyondgravity.com', logo: beyond-gravity.svg}
-    - {name: Safran, description: Space optics, propulsion components, atomic clocks, and navigation systems., homepage_url: 'https://www.safran-group.com/markets/space', logo: safran.svg}
-    - {name: Sodern, description: Star trackers, optical instruments, neutron generators, and space sensors., homepage_url: 'https://www.sodern.com', logo: sodern.svg}
-    - {name: TESAT, description: Laser communication terminals, RF payloads, and satellite communication equipment., homepage_url: 'https://www.tesat.de', logo: tesat.svg}
-    - {name: Mynaric, description: Laser communication terminals for airborne and space networks., homepage_url: 'https://mynaric.com', logo: mynaric.svg}
-    - {name: CesiumAstro, description: Software-defined phased-array communications payloads and space electronics., homepage_url: 'https://www.cesiumastro.com', logo: cesiumastro.svg}
-    - {name: CubeSpace, description: Attitude determination and control systems for small satellites., homepage_url: 'https://www.cubespace.co.za', logo: cubespace.svg}
-    - {name: RocketStar, description: Small-satellite propulsion and advanced in-space power concepts., homepage_url: 'https://rocketstar.nyc', logo: rocketstar.svg}
-    - {name: ABB Space, description: Space optical instruments, infrared sensors, and atmospheric measurement payloads., homepage_url: 'https://new.abb.com/about/our-businesses/process-automation/measurement-and-analytics/space', logo: abb-space.svg}
-    - {name: Lynred, description: Infrared detectors for space observation, science, and defense payloads., homepage_url: 'https://www.lynred.com', logo: lynred.svg}
+    - {name: Beyond Gravity, description: 'Satellite structures, mechanisms, thermal hardware, electronics, and launch fairings.', homepage_url: 'https://www.beyondgravity.com', logo: beyond-gravity.svg}
+    - {name: Safran, description: 'Space optics, propulsion components, atomic clocks, and navigation systems.', homepage_url: 'https://www.safran-group.com/markets/space', logo: safran.svg}
+    - {name: Sodern, description: 'Star trackers, optical instruments, neutron generators, and space sensors.', homepage_url: 'https://www.sodern.com', logo: sodern.svg}
+    - {name: TESAT, description: 'Laser communication terminals, RF payloads, and satellite communication equipment.', homepage_url: 'https://www.tesat.de', logo: tesat.svg}
+    - {name: Mynaric, description: 'Laser communication terminals for airborne and space networks.', homepage_url: 'https://mynaric.com', logo: mynaric.svg}
+    - {name: CesiumAstro, description: 'Software-defined phased-array communications payloads and space electronics.', homepage_url: 'https://www.cesiumastro.com', logo: cesiumastro.svg}
+    - {name: CubeSpace, description: 'Attitude determination and control systems for small satellites.', homepage_url: 'https://www.cubespace.co.za', logo: cubespace.svg}
+    - {name: RocketStar, description: 'Small-satellite propulsion and advanced in-space power concepts.', homepage_url: 'https://rocketstar.nyc', logo: rocketstar.svg}
+    - {name: ABB Space, description: 'Space optical instruments, infrared sensors, and atmospheric measurement payloads.', homepage_url: 'https://new.abb.com/about/our-businesses/process-automation/measurement-and-analytics/space', logo: abb-space.svg}
+    - {name: Lynred, description: 'Infrared detectors for space observation, science, and defense payloads.', homepage_url: 'https://www.lynred.com', logo: lynred.svg}
   - name: Propulsion & Power
     items:
-    - {name: ArianeGroup, description: Launch vehicle and spacecraft propulsion, rocket engines, and orbital systems., homepage_url: 'https://www.ariane.group', logo: arianegroup.svg}
-    - {name: Orbion Space Technology, description: Aurora Hall-effect propulsion systems for small satellites., homepage_url: 'https://orbionspace.com', logo: orbion-space-technology.svg}
-    - {name: Busek, description: Electric and chemical propulsion systems for spacecraft and scientific missions., homepage_url: 'https://www.busek.com', logo: busek.svg}
-    - {name: Exotrail, description: Electric propulsion, mission software, and orbital transfer vehicles., homepage_url: 'https://www.exotrail.com', logo: exotrail.svg}
-    - {name: ThrustMe, description: Iodine electric propulsion systems for small satellites and constellations., homepage_url: 'https://www.thrustme.fr', logo: thrustme.svg}
-    - {name: Morpheus Space, description: GO-2 electric propulsion systems and satellite mobility solutions., homepage_url: 'https://www.morpheus-space.com', logo: morpheus-space.svg}
-    - {name: Dawn Aerospace, description: Green chemical propulsion and satellite propulsion modules., homepage_url: 'https://www.dawnaerospace.com', logo: dawn-aerospace.svg}
-    - {name: Benchmark Space Systems, description: Chemical and electric propulsion for maneuverability and end-of-life operations., homepage_url: 'https://www.benchmarkspacesystems.com', logo: benchmark-space-systems.svg}
-    - {name: Impulse Space, description: High-thrust orbital transfer vehicles and in-space propulsion systems., homepage_url: 'https://www.impulsespace.com', logo: impulse-space.svg}
-    - {name: Ursa Major, description: Rocket engines and propulsion systems for launch and hypersonic applications., homepage_url: 'https://www.ursamajor.com', logo: ursa-major.svg}
-    - {name: Phase Four, description: RF plasma thrusters and Maxwell electric propulsion systems., homepage_url: 'https://www.phasefour.io', logo: phase-four.svg}
-    - {name: Zeno Power, description: Radioisotope power systems for lunar and deep-space missions., homepage_url: 'https://www.zenopower.com', logo: zeno-power.svg}
-    - {name: Avalanche Energy, description: Compact fusion systems for space power and propulsion applications., homepage_url: 'https://www.avalanchefusion.com', logo: avalanche-energy.svg}
-    - {name: Helicity Space, description: Developing fusion propulsion for deep-space transportation., homepage_url: 'https://www.helicityspace.com', logo: helicity-space.svg}
+    - {name: ArianeGroup, description: 'Launch vehicle and spacecraft propulsion, rocket engines, and orbital systems.', homepage_url: 'https://www.ariane.group', logo: arianegroup.svg}
+    - {name: Orbion Space Technology, description: 'Aurora Hall-effect propulsion systems for small satellites.', homepage_url: 'https://orbionspace.com', logo: orbion-space-technology.svg}
+    - {name: Busek, description: 'Electric and chemical propulsion systems for spacecraft and scientific missions.', homepage_url: 'https://www.busek.com', logo: busek.svg}
+    - {name: Exotrail, description: 'Electric propulsion, mission software, and orbital transfer vehicles.', homepage_url: 'https://www.exotrail.com', logo: exotrail.svg}
+    - {name: ThrustMe, description: 'Iodine electric propulsion systems for small satellites and constellations.', homepage_url: 'https://www.thrustme.fr', logo: thrustme.svg}
+    - {name: Morpheus Space, description: 'GO-2 electric propulsion systems and satellite mobility solutions.', homepage_url: 'https://www.morpheus-space.com', logo: morpheus-space.svg}
+    - {name: Dawn Aerospace, description: 'Green chemical propulsion and satellite propulsion modules.', homepage_url: 'https://www.dawnaerospace.com', logo: dawn-aerospace.svg}
+    - {name: Benchmark Space Systems, description: 'Chemical and electric propulsion for maneuverability and end-of-life operations.', homepage_url: 'https://www.benchmarkspacesystems.com', logo: benchmark-space-systems.svg}
+    - {name: Impulse Space, description: 'High-thrust orbital transfer vehicles and in-space propulsion systems.', homepage_url: 'https://www.impulsespace.com', logo: impulse-space.svg}
+    - {name: Ursa Major, description: 'Rocket engines and propulsion systems for launch and hypersonic applications.', homepage_url: 'https://www.ursamajor.com', logo: ursa-major.svg}
+    - {name: Phase Four, description: 'RF plasma thrusters and Maxwell electric propulsion systems.', homepage_url: 'https://www.phasefour.io', logo: phase-four.svg}
+    - {name: Zeno Power, description: 'Radioisotope power systems for lunar and deep-space missions.', homepage_url: 'https://www.zenopower.com', logo: zeno-power.svg}
+    - {name: Avalanche Energy, description: 'Compact fusion systems for space power and propulsion applications.', homepage_url: 'https://www.avalanchefusion.com', logo: avalanche-energy.svg}
+    - {name: Helicity Space, description: 'Developing fusion propulsion for deep-space transportation.', homepage_url: 'https://www.helicityspace.com', logo: helicity-space.svg}
   - name: Materials & Shielding
     items:
-    - {name: Atomic-6, description: Lightweight composite shielding and Space Armor protective tiles., homepage_url: 'https://www.atomic-6.com', logo: atomic-6.svg}
-    - {name: Cosmic Shielding Corporation, description: Plasteel multifunctional materials for space radiation protection., homepage_url: 'https://cosmicshielding.com', logo: cosmic-shielding-corporation.svg}
-    - {name: Infinite Composites, description: Linerless composite pressure vessels for launch and spacecraft., homepage_url: 'https://www.infinitecomposites.com', logo: infinite-composites.svg}
-    - {name: Orbital Composites, description: Robotic additive manufacturing of continuous-fiber composite structures., homepage_url: 'https://www.orbitalcomposites.com', logo: orbital-composites.svg}
+    - {name: Atomic-6, description: 'Lightweight composite shielding and Space Armor protective tiles.', homepage_url: 'https://www.atomic-6.com', logo: atomic-6.svg}
+    - {name: Cosmic Shielding Corporation, description: 'Plasteel multifunctional materials for space radiation protection.', homepage_url: 'https://cosmicshielding.com', logo: cosmic-shielding-corporation.svg}
+    - {name: Infinite Composites, description: 'Linerless composite pressure vessels for launch and spacecraft.', homepage_url: 'https://www.infinitecomposites.com', logo: infinite-composites.svg}
+    - {name: Orbital Composites, description: 'Robotic additive manufacturing of continuous-fiber composite structures.', homepage_url: 'https://www.orbitalcomposites.com', logo: orbital-composites.svg}
 - name: Satellite Connectivity & Network Services
   subcategories:
   - name: Satellite Network Operators
     items:
-    - {name: Amazon Leo, description: LEO broadband constellation and user connectivity service formerly called Project Kuiper., homepage_url: 'https://leo.amazon.com', logo: amazon-kuiper.svg}
-    - {name: Eutelsat Group, description: GEO and OneWeb LEO connectivity for enterprise, mobility, broadcast, and government., homepage_url: 'https://www.eutelsat.com', logo: eutelsat-group.svg}
-    - {name: SES, description: Multi-orbit satellite connectivity and managed network services., homepage_url: 'https://www.ses.com', logo: ses.svg}
-    - {name: Viasat, description: Satellite broadband, secure communications, mobility, and real-time Earth services., homepage_url: 'https://www.viasat.com', logo: viasat.svg}
-    - {name: Iridium Communications, description: Global LEO voice, data, IoT, and satellite time-and-location services., homepage_url: 'https://www.iridium.com', logo: iridium-communications.svg}
-    - {name: EchoStar, description: Satellite communications, direct-to-device spectrum, and connectivity services., homepage_url: 'https://www.echostar.com', logo: echostar.svg}
-    - {name: Globalstar, description: LEO mobile satellite services, IoT connectivity, and direct-to-device infrastructure., homepage_url: 'https://www.globalstar.com', logo: globalstar.svg}
-    - {name: Telesat, description: GEO satellite services and the Lightspeed LEO broadband network., homepage_url: 'https://www.telesat.com', logo: telesat.svg}
-    - {name: Astranis, description: Dedicated small GEO communications satellites and capacity services., homepage_url: 'https://www.astranis.com', logo: astranis.svg}
-    - {name: AST SpaceMobile, description: Space-based cellular broadband directly to standard mobile devices., homepage_url: 'https://www.ast-science.com', logo: ast-spacemobile.svg}
-    - {name: SKY Perfect JSAT, description: Satellite broadcasting, communications, and space services across Asia-Pacific., homepage_url: 'https://www.skyperfectjsat.space/jsat/en/', logo: sky-perfect-jsat.svg}
-    - {name: Elveo Mobile, description: Direct-to-device satellite connectivity company formed by Lynk and Omnispace., homepage_url: 'https://www.elveo.com', logo: elveo-mobile.svg}
-    - {name: Sateliot, description: LEO narrowband IoT connectivity using standards-based 5G NTN., homepage_url: 'https://sateliot.space', logo: sateliot.svg}
-    - {name: Kepler Communications, description: LEO optical data-relay network and space communications infrastructure., homepage_url: 'https://kepler.space', logo: kepler-communications.svg}
-    - {name: Space Compass, description: Optical data-relay and non-terrestrial network infrastructure., homepage_url: 'https://space-compass.com', logo: space-compass.svg}
-    - {name: NTT, description: Terrestrial and non-terrestrial network integration and space communications., homepage_url: 'https://group.ntt/en', logo: ntt.svg}
+    - {name: Amazon Leo, description: 'LEO broadband constellation and user connectivity service formerly called Project Kuiper.', homepage_url: 'https://leo.amazon.com', logo: amazon-kuiper.svg}
+    - {name: Eutelsat Group, description: 'GEO and OneWeb LEO connectivity for enterprise, mobility, broadcast, and government.', homepage_url: 'https://www.eutelsat.com', logo: eutelsat-group.svg}
+    - {name: SES, description: 'Multi-orbit satellite connectivity and managed network services.', homepage_url: 'https://www.ses.com', logo: ses.svg}
+    - {name: Viasat, description: 'Satellite broadband, secure communications, mobility, and real-time Earth services.', homepage_url: 'https://www.viasat.com', logo: viasat.svg}
+    - {name: Iridium Communications, description: 'Global LEO voice, data, IoT, and satellite time-and-location services.', homepage_url: 'https://www.iridium.com', logo: iridium-communications.svg}
+    - {name: EchoStar, description: 'Satellite communications, direct-to-device spectrum, and connectivity services.', homepage_url: 'https://www.echostar.com', logo: echostar.svg}
+    - {name: Globalstar, description: 'LEO mobile satellite services, IoT connectivity, and direct-to-device infrastructure.', homepage_url: 'https://www.globalstar.com', logo: globalstar.svg}
+    - {name: Telesat, description: 'GEO satellite services and the Lightspeed LEO broadband network.', homepage_url: 'https://www.telesat.com', logo: telesat.svg}
+    - {name: Astranis, description: 'Dedicated small GEO communications satellites and capacity services.', homepage_url: 'https://www.astranis.com', logo: astranis.svg}
+    - {name: AST SpaceMobile, description: 'Space-based cellular broadband directly to standard mobile devices.', homepage_url: 'https://www.ast-science.com', logo: ast-spacemobile.svg}
+    - {name: SKY Perfect JSAT, description: 'Satellite broadcasting, communications, and space services across Asia-Pacific.', homepage_url: 'https://www.skyperfectjsat.space/jsat/en/', logo: sky-perfect-jsat.svg}
+    - {name: Elveo Mobile, description: 'Direct-to-device satellite connectivity company formed by Lynk and Omnispace.', homepage_url: 'https://www.elveo.com', logo: elveo-mobile.svg}
+    - {name: Sateliot, description: 'LEO narrowband IoT connectivity using standards-based 5G NTN.', homepage_url: 'https://sateliot.space', logo: sateliot.svg}
+    - {name: Kepler Communications, description: 'LEO optical data-relay network and space communications infrastructure.', homepage_url: 'https://kepler.space', logo: kepler-communications.svg}
+    - {name: Space Compass, description: 'Optical data-relay and non-terrestrial network infrastructure.', homepage_url: 'https://space-compass.com', logo: space-compass.svg}
+    - {name: NTT, description: 'Terrestrial and non-terrestrial network integration and space communications.', homepage_url: 'https://group.ntt/en', logo: ntt.svg}
   - name: Ground Equipment & User Terminals
     items:
-    - {name: Kratos Defense & Security Solutions, description: Software-defined ground systems, signal processing, telemetry, and space networks., homepage_url: 'https://www.kratosdefense.com', logo: kratos-defense-and-security-solutions.svg}
-    - {name: Comtech, description: Satellite modems, amplifiers, ground infrastructure, and network systems., homepage_url: 'https://comtech.com', logo: comtech.svg}
-    - {name: Gilat Satellite Networks, description: Satellite networking platforms, modems, and electronically steered terminals., homepage_url: 'https://www.gilat.com', logo: gilat-satellite-networks.svg}
-    - {name: ST Engineering iDirect, description: Ground infrastructure and satellite network management platforms., homepage_url: 'https://www.idirect.net', logo: st-engineering-idirect.svg}
-    - {name: Intellian Technologies, description: Satellite user terminals and antennas for maritime, land, and government markets., homepage_url: 'https://www.intelliantech.com', logo: intellian-technologies.svg}
-    - {name: Kymeta, description: Electronically steered flat-panel terminals for mobile satellite connectivity., homepage_url: 'https://www.kymetacorp.com', logo: kymeta.svg}
-    - {name: ALL.SPACE, description: Multi-orbit, multi-link smart satellite terminals., homepage_url: 'https://www.all.space', logo: all-space.svg}
+    - {name: Kratos Defense & Security Solutions, description: 'Software-defined ground systems, signal processing, telemetry, and space networks.', homepage_url: 'https://www.kratosdefense.com', logo: kratos-defense-and-security-solutions.svg}
+    - {name: Comtech, description: 'Satellite modems, amplifiers, ground infrastructure, and network systems.', homepage_url: 'https://comtech.com', logo: comtech.svg}
+    - {name: Gilat Satellite Networks, description: 'Satellite networking platforms, modems, and electronically steered terminals.', homepage_url: 'https://www.gilat.com', logo: gilat-satellite-networks.svg}
+    - {name: ST Engineering iDirect, description: 'Ground infrastructure and satellite network management platforms.', homepage_url: 'https://www.idirect.net', logo: st-engineering-idirect.svg}
+    - {name: Intellian Technologies, description: 'Satellite user terminals and antennas for maritime, land, and government markets.', homepage_url: 'https://www.intelliantech.com', logo: intellian-technologies.svg}
+    - {name: Kymeta, description: 'Electronically steered flat-panel terminals for mobile satellite connectivity.', homepage_url: 'https://www.kymetacorp.com', logo: kymeta.svg}
+    - {name: ALL.SPACE, description: 'Multi-orbit, multi-link smart satellite terminals.', homepage_url: 'https://www.all.space', logo: all-space.svg}
 - name: Ground Segment & Mission Operations
   subcategories:
   - name: Ground Station as a Service
     items:
-    - {name: KSAT, description: Global ground-station network, TT&C, data downlink, and Earth-observation services., homepage_url: 'https://www.ksat.no', logo: ksat.svg}
-    - {name: SSC Space, description: Ground-station networks, mission operations, launch services, and space engineering., homepage_url: 'https://sscspace.com', logo: ssc-space.svg}
-    - {name: AWS Ground Station, description: Cloud-integrated satellite ground-station contacts and data processing., homepage_url: 'https://aws.amazon.com/ground-station', logo: aws-ground-station.svg}
-    - {name: Leaf Space, description: Ground Segment as a Service through a distributed, API-managed station network., homepage_url: 'https://leaf.space', logo: leaf-space.svg}
-    - {name: ATLAS Space Operations, description: Federated ground network and Freedom satellite communications software., homepage_url: 'https://atlasground.com', logo: atlas-space-operations.svg}
-    - {name: RBC Signals, description: Aggregated global ground-station capacity and space communications services., homepage_url: 'https://rbcsignals.com', logo: rbc-signals.svg}
-    - {name: Infostellar, description: StellarStation platform for cloud-connected ground-station access., homepage_url: 'https://www.infostellar.net', logo: infostellar.svg}
-    - {name: CONTEC, description: Ground-station services, satellite operations, and space-data solutions., homepage_url: 'https://www.contec.kr', logo: contec.svg}
-    - {name: Goonhilly Earth Station, description: Deep-space and lunar communications plus commercial ground-station services., homepage_url: 'https://www.goonhilly.org', logo: goonhilly-earth-station.svg}
+    - {name: KSAT, description: 'Global ground-station network, TT&C, data downlink, and Earth-observation services.', homepage_url: 'https://www.ksat.no', logo: ksat.svg}
+    - {name: SSC Space, description: 'Ground-station networks, mission operations, launch services, and space engineering.', homepage_url: 'https://sscspace.com', logo: ssc-space.svg}
+    - {name: AWS Ground Station, description: 'Cloud-integrated satellite ground-station contacts and data processing.', homepage_url: 'https://aws.amazon.com/ground-station', logo: aws-ground-station.svg}
+    - {name: Leaf Space, description: 'Ground Segment as a Service through a distributed, API-managed station network.', homepage_url: 'https://leaf.space', logo: leaf-space.svg}
+    - {name: ATLAS Space Operations, description: 'Federated ground network and Freedom satellite communications software.', homepage_url: 'https://atlasground.com', logo: atlas-space-operations.svg}
+    - {name: RBC Signals, description: 'Aggregated global ground-station capacity and space communications services.', homepage_url: 'https://rbcsignals.com', logo: rbc-signals.svg}
+    - {name: Infostellar, description: 'StellarStation platform for cloud-connected ground-station access.', homepage_url: 'https://www.infostellar.net', logo: infostellar.svg}
+    - {name: CONTEC, description: 'Ground-station services, satellite operations, and space-data solutions.', homepage_url: 'https://www.contec.kr', logo: contec.svg}
+    - {name: Goonhilly Earth Station, description: 'Deep-space and lunar communications plus commercial ground-station services.', homepage_url: 'https://www.goonhilly.org', logo: goonhilly-earth-station.svg}
   - name: Mission Design & Operations Software
     items:
-    - {name: Antaris, description: Cloud platform for mission design, simulation, satellite software, and operations., homepage_url: 'https://www.antaris.space', logo: antaris.svg}
-    - {name: Leanspace, description: Cloud-native software for satellite and ground-segment operations., homepage_url: 'https://www.leanspace.io', logo: leanspace.svg}
-    - {name: Cognitive Space, description: AI-assisted mission planning and satellite collection management., homepage_url: 'https://www.cognitivespace.com', logo: cognitive-space.svg}
-    - {name: GMV, description: Flight dynamics, mission control, ground systems, and space-safety software., homepage_url: 'https://www.gmv.com/en/space', logo: gmv.svg}
-    - {name: KinetX, description: Mission design, navigation, and flight dynamics for deep-space missions., homepage_url: 'https://www.kinetx.com', logo: kinetx.svg}
-    - {name: a.i. solutions, description: FreeFlyer astrodynamics and mission-operations software and engineering services., homepage_url: 'https://ai-solutions.com', logo: a-i-solutions.svg}
+    - {name: Antaris, description: 'Cloud platform for mission design, simulation, satellite software, and operations.', homepage_url: 'https://www.antaris.space', logo: antaris.svg}
+    - {name: Leanspace, description: 'Cloud-native software for satellite and ground-segment operations.', homepage_url: 'https://www.leanspace.io', logo: leanspace.svg}
+    - {name: Cognitive Space, description: 'AI-assisted mission planning and satellite collection management.', homepage_url: 'https://www.cognitivespace.com', logo: cognitive-space.svg}
+    - {name: GMV, description: 'Flight dynamics, mission control, ground systems, and space-safety software.', homepage_url: 'https://www.gmv.com/en/space', logo: gmv.svg}
+    - {name: KinetX, description: 'Mission design, navigation, and flight dynamics for deep-space missions.', homepage_url: 'https://www.kinetx.com', logo: kinetx.svg}
+    - {name: a.i. solutions, description: 'FreeFlyer astrodynamics and mission-operations software and engineering services.', homepage_url: 'https://ai-solutions.com', logo: a-i-solutions.svg}
 - name: Earth Observation & Geospatial Intelligence
   subcategories:
   - name: Optical, SAR & RF Sensing
     items:
-    - {name: Vantor, description: High-resolution Earth imagery and geospatial intelligence formerly part of Maxar., homepage_url: 'https://www.vantor.com', logo: vantor.svg}
-    - {name: Planet, description: Daily Earth imaging, high-resolution tasking, and geospatial data products., homepage_url: 'https://www.planet.com', logo: planet.svg}
-    - {name: BlackSky, description: High-revisit imagery and AI-enabled real-time geospatial intelligence., homepage_url: 'https://www.blacksky.com', logo: blacksky.svg}
-    - {name: Capella Space, description: High-resolution synthetic aperture radar imagery and tasking services., homepage_url: 'https://www.capellaspace.com', logo: capella-space.svg}
-    - {name: ICEYE, description: SAR satellite constellation, imagery, and natural-catastrophe intelligence., homepage_url: 'https://www.iceye.com', logo: iceye.svg}
-    - {name: Umbra, description: High-resolution commercial SAR imagery and space-systems capabilities., homepage_url: 'https://umbra.space', logo: umbra.svg}
-    - {name: Satellogic, description: High-resolution multispectral Earth-observation constellation and imagery services., homepage_url: 'https://satellogic.com', logo: satellogic.svg}
-    - {name: iQPS, description: High-resolution, compact SAR satellite constellation and imagery services., homepage_url: 'https://i-qps.net', logo: iqps.svg}
-    - {name: Synspective, description: SAR satellite data and analytics for infrastructure, disaster, and land monitoring., homepage_url: 'https://synspective.com', logo: synspective.svg}
-    - {name: Axelspace, description: AxelGlobe optical Earth-observation data and small-satellite mission services., homepage_url: 'https://www.axelspace.com', logo: axelspace.svg}
-    - {name: HawkEye 360, description: Space-based RF detection, geolocation, and geospatial intelligence., homepage_url: 'https://www.he360.com', logo: hawkeye-360.svg}
-    - {name: Spire Global, description: Space-based weather, aviation, RF data, and hosted-payload services., homepage_url: 'https://spire.com', logo: spire-global.svg}
-    - {name: Muon Space, description: Mission-tailored constellations and climate and wildfire intelligence., homepage_url: 'https://muonspace.com', logo: muon-space.svg}
-    - {name: EarthDaily, description: Earth-observation constellation and AI-ready daily change-detection analytics., homepage_url: 'https://earthdaily.com', logo: earthdaily.svg}
-    - {name: SI Imaging Services, description: High-resolution KOMPSAT imagery and geospatial data services., homepage_url: 'https://www.si-imaging.com', logo: si-imaging-services.svg}
+    - {name: Vantor, description: 'High-resolution Earth imagery and geospatial intelligence formerly part of Maxar.', homepage_url: 'https://www.vantor.com', logo: vantor.svg}
+    - {name: Planet, description: 'Daily Earth imaging, high-resolution tasking, and geospatial data products.', homepage_url: 'https://www.planet.com', logo: planet.svg}
+    - {name: BlackSky, description: 'High-revisit imagery and AI-enabled real-time geospatial intelligence.', homepage_url: 'https://www.blacksky.com', logo: blacksky.svg}
+    - {name: Capella Space, description: 'High-resolution synthetic aperture radar imagery and tasking services.', homepage_url: 'https://www.capellaspace.com', logo: capella-space.svg}
+    - {name: ICEYE, description: 'SAR satellite constellation, imagery, and natural-catastrophe intelligence.', homepage_url: 'https://www.iceye.com', logo: iceye.svg}
+    - {name: Umbra, description: 'High-resolution commercial SAR imagery and space-systems capabilities.', homepage_url: 'https://umbra.space', logo: umbra.svg}
+    - {name: Satellogic, description: 'High-resolution multispectral Earth-observation constellation and imagery services.', homepage_url: 'https://satellogic.com', logo: satellogic.svg}
+    - {name: iQPS, description: 'High-resolution, compact SAR satellite constellation and imagery services.', homepage_url: 'https://i-qps.net', logo: iqps.svg}
+    - {name: Synspective, description: 'SAR satellite data and analytics for infrastructure, disaster, and land monitoring.', homepage_url: 'https://synspective.com', logo: synspective.svg}
+    - {name: Axelspace, description: 'AxelGlobe optical Earth-observation data and small-satellite mission services.', homepage_url: 'https://www.axelspace.com', logo: axelspace.svg}
+    - {name: HawkEye 360, description: 'Space-based RF detection, geolocation, and geospatial intelligence.', homepage_url: 'https://www.he360.com', logo: hawkeye-360.svg}
+    - {name: Spire Global, description: 'Space-based weather, aviation, RF data, and hosted-payload services.', homepage_url: 'https://spire.com', logo: spire-global.svg}
+    - {name: Muon Space, description: 'Mission-tailored constellations and climate and wildfire intelligence.', homepage_url: 'https://muonspace.com', logo: muon-space.svg}
+    - {name: EarthDaily, description: 'Earth-observation constellation and AI-ready daily change-detection analytics.', homepage_url: 'https://earthdaily.com', logo: earthdaily.svg}
+    - {name: SI Imaging Services, description: 'High-resolution KOMPSAT imagery and geospatial data services.', homepage_url: 'https://www.si-imaging.com', logo: si-imaging-services.svg}
   - name: Hyperspectral, Thermal & Environmental Intelligence
     items:
-    - {name: Pixxel, description: Hyperspectral Earth-imaging constellation and planetary intelligence platform., homepage_url: 'https://www.pixxel.space', logo: pixxel.svg}
-    - {name: Wyvern, description: Deployable-optics hyperspectral imaging satellites and data products., homepage_url: 'https://wyvern.space', logo: wyvern.svg}
-    - {name: Albedo, description: Very-low-Earth-orbit high-resolution optical and thermal imaging., homepage_url: 'https://albedo.com', logo: albedo.svg}
-    - {name: GHGSat, description: High-resolution greenhouse-gas monitoring and emissions intelligence., homepage_url: 'https://www.ghgsat.com', logo: ghgsat.svg}
-    - {name: Hydrosat, description: Thermal-infrared data and analytics for water, agriculture, and climate., homepage_url: 'https://hydrosat.com', logo: hydrosat.svg}
-    - {name: SatVu, description: High-resolution thermal imagery and video for activity and energy intelligence., homepage_url: 'https://www.satellitevu.com', logo: satvu.svg}
-    - {name: OroraTech, description: Space-based thermal intelligence for wildfire detection and response., homepage_url: 'https://ororatech.com', logo: ororatech.svg}
-    - {name: constellr, description: Land-surface-temperature data and thermal monitoring services., homepage_url: 'https://constellr.com', logo: constellr.svg}
-    - {name: Tomorrow.io, description: Weather intelligence platform and space-based precipitation observation constellation., homepage_url: 'https://www.tomorrow.io', logo: tomorrow-io.svg}
-    - {name: Kayrros, description: Satellite-data analytics for energy, emissions, climate, and natural resources., homepage_url: 'https://www.kayrros.com', logo: kayrros.svg}
+    - {name: Pixxel, description: 'Hyperspectral Earth-imaging constellation and planetary intelligence platform.', homepage_url: 'https://www.pixxel.space', logo: pixxel.svg}
+    - {name: Wyvern, description: 'Deployable-optics hyperspectral imaging satellites and data products.', homepage_url: 'https://wyvern.space', logo: wyvern.svg}
+    - {name: Albedo, description: 'Very-low-Earth-orbit high-resolution optical and thermal imaging.', homepage_url: 'https://albedo.com', logo: albedo.svg}
+    - {name: GHGSat, description: 'High-resolution greenhouse-gas monitoring and emissions intelligence.', homepage_url: 'https://www.ghgsat.com', logo: ghgsat.svg}
+    - {name: Hydrosat, description: 'Thermal-infrared data and analytics for water, agriculture, and climate.', homepage_url: 'https://hydrosat.com', logo: hydrosat.svg}
+    - {name: SatVu, description: 'High-resolution thermal imagery and video for activity and energy intelligence.', homepage_url: 'https://www.satellitevu.com', logo: satvu.svg}
+    - {name: OroraTech, description: 'Space-based thermal intelligence for wildfire detection and response.', homepage_url: 'https://ororatech.com', logo: ororatech.svg}
+    - {name: constellr, description: 'Land-surface-temperature data and thermal monitoring services.', homepage_url: 'https://constellr.com', logo: constellr.svg}
+    - {name: Tomorrow.io, description: 'Weather intelligence platform and space-based precipitation observation constellation.', homepage_url: 'https://www.tomorrow.io', logo: tomorrow-io.svg}
+    - {name: Kayrros, description: 'Satellite-data analytics for energy, emissions, climate, and natural resources.', homepage_url: 'https://www.kayrros.com', logo: kayrros.svg}
 - name: Space Domain Awareness & Traffic Coordination
   subcategories:
   - name: Sensors, Data & Operational Software
     items:
-    - {name: LeoLabs, description: Global phased-array radar network and orbital object tracking services., homepage_url: 'https://leolabs.space', logo: leolabs.svg}
-    - {name: Slingshot Aerospace, description: Space-domain awareness, sensor data fusion, simulation, and operational software., homepage_url: 'https://slingshot.space', logo: slingshot-aerospace.svg}
-    - {name: COMSPOC, description: Space-safety software, conjunction assessment, and space-traffic coordination., homepage_url: 'https://comspoc.com', logo: comspoc.svg}
-    - {name: ExoAnalytic Solutions, description: Global optical sensor network and space-object tracking and characterization., homepage_url: 'https://exoanalytic.com', logo: exoanalytic-solutions.svg}
-    - {name: Kayhan Space, description: Autonomous collision avoidance, conjunction assessment, and space-traffic coordination., homepage_url: 'https://www.kayhan.space', logo: kayhan-space.svg}
-    - {name: Digantara, description: Space-based and ground-based space surveillance and domain-awareness services., homepage_url: 'https://www.digantara.co.in', logo: digantara.svg}
-    - {name: Odin Space, description: In-situ sub-centimeter orbital debris detection and mapping., homepage_url: 'https://www.odinspace.com', logo: odin-space.svg}
-    - {name: NorthStar Earth & Space, description: Space-based SSA sensors and space-traffic information services., homepage_url: 'https://www.northstar-data.com', logo: northstar-earth-and-space.svg}
-    - {name: Spaceflux, description: Optical space-surveillance network and AI-enabled space-domain intelligence., homepage_url: 'https://spaceflux.io', logo: spaceflux.svg}
-    - {name: Neuraspace, description: AI-enabled space-traffic management and conjunction-risk mitigation., homepage_url: 'https://neuraspace.com', logo: neuraspace.svg}
-    - {name: True Anomaly, description: Autonomous orbital vehicles and software for space-domain awareness and security., homepage_url: 'https://www.trueanomaly.space', logo: true-anomaly.svg}
-    - {name: Vyoma, description: Space-based surveillance and automated space-traffic safety services., homepage_url: 'https://www.vyoma.space', logo: vyoma.svg}
+    - {name: LeoLabs, description: 'Global phased-array radar network and orbital object tracking services.', homepage_url: 'https://leolabs.space', logo: leolabs.svg}
+    - {name: Slingshot Aerospace, description: 'Space-domain awareness, sensor data fusion, simulation, and operational software.', homepage_url: 'https://slingshot.space', logo: slingshot-aerospace.svg}
+    - {name: COMSPOC, description: 'Space-safety software, conjunction assessment, and space-traffic coordination.', homepage_url: 'https://comspoc.com', logo: comspoc.svg}
+    - {name: ExoAnalytic Solutions, description: 'Global optical sensor network and space-object tracking and characterization.', homepage_url: 'https://exoanalytic.com', logo: exoanalytic-solutions.svg}
+    - {name: Kayhan Space, description: 'Autonomous collision avoidance, conjunction assessment, and space-traffic coordination.', homepage_url: 'https://www.kayhan.space', logo: kayhan-space.svg}
+    - {name: Digantara, description: 'Space-based and ground-based space surveillance and domain-awareness services.', homepage_url: 'https://www.digantara.co.in', logo: digantara.svg}
+    - {name: Odin Space, description: 'In-situ sub-centimeter orbital debris detection and mapping.', homepage_url: 'https://www.odinspace.com', logo: odin-space.svg}
+    - {name: NorthStar Earth & Space, description: 'Space-based SSA sensors and space-traffic information services.', homepage_url: 'https://www.northstar-data.com', logo: northstar-earth-and-space.svg}
+    - {name: Spaceflux, description: 'Optical space-surveillance network and AI-enabled space-domain intelligence.', homepage_url: 'https://spaceflux.io', logo: spaceflux.svg}
+    - {name: Neuraspace, description: 'AI-enabled space-traffic management and conjunction-risk mitigation.', homepage_url: 'https://neuraspace.com', logo: neuraspace.svg}
+    - {name: True Anomaly, description: 'Autonomous orbital vehicles and software for space-domain awareness and security.', homepage_url: 'https://www.trueanomaly.space', logo: true-anomaly.svg}
+    - {name: Vyoma, description: 'Space-based surveillance and automated space-traffic safety services.', homepage_url: 'https://www.vyoma.space', logo: vyoma.svg}
 - name: In-Space Logistics, Servicing & Manufacturing
   subcategories:
   - name: Orbital Transfer, Servicing & Sustainability
     items:
-    - {name: Astroscale, description: Rendezvous, inspection, life extension, and active debris-removal services., homepage_url: 'https://astroscale.com', logo: astroscale.svg}
-    - {name: ClearSpace, description: In-orbit servicing, debris removal, and GEO life-extension technologies., homepage_url: 'https://clearspace.today', logo: clearspace.svg}
-    - {name: Starfish Space, description: Otter autonomous satellite servicing, inspection, life extension, and disposal., homepage_url: 'https://www.starfishspace.com', logo: starfish-space.svg}
-    - {name: Orbit Fab, description: RAFTI refueling interfaces, fuel depots, and in-space propellant logistics., homepage_url: 'https://www.orbitfab.com', logo: orbit-fab.svg}
-    - {name: Infinite Orbits, description: GEO satellite inspection and Orbit Guard life-extension services., homepage_url: 'https://www.infiniteorbits.io', logo: infinite-orbits.svg}
-    - {name: Atomos Space, description: Orbital transfer vehicles and in-space transportation and servicing., homepage_url: 'https://atomosspace.com', logo: atomos-space.svg}
-    - {name: Momentus, description: Vigoride orbital service vehicles and hosted-payload transportation., homepage_url: 'https://www.momentus.space', logo: momentus.svg}
-    - {name: Arkisys, description: The Port reusable orbital platform for payload hosting and logistics., homepage_url: 'https://www.arkisys.com', logo: arkisys.svg}
-    - {name: TransAstra, description: In-space transportation, orbital logistics, and asteroid-resource technologies., homepage_url: 'https://www.transastra.com', logo: transastra.svg}
-    - {name: Lux Aeterna, description: Reusable satellite platforms and reentry vehicles for circular space logistics., homepage_url: 'https://www.luxaeterna.com', logo: lux-aeterna.svg}
-    - {name: GITAI, description: Robotic systems for in-space servicing, assembly, and lunar infrastructure., homepage_url: 'https://gitai.tech', logo: gitai.svg}
-    - {name: Katalyst Space, description: Retrofit, upgrade, and autonomous servicing technologies for spacecraft., homepage_url: 'https://www.katalystspace.com', logo: katalyst-space.svg}
+    - {name: Astroscale, description: 'Rendezvous, inspection, life extension, and active debris-removal services.', homepage_url: 'https://astroscale.com', logo: astroscale.svg}
+    - {name: ClearSpace, description: 'In-orbit servicing, debris removal, and GEO life-extension technologies.', homepage_url: 'https://clearspace.today', logo: clearspace.svg}
+    - {name: Starfish Space, description: 'Otter autonomous satellite servicing, inspection, life extension, and disposal.', homepage_url: 'https://www.starfishspace.com', logo: starfish-space.svg}
+    - {name: Orbit Fab, description: 'RAFTI refueling interfaces, fuel depots, and in-space propellant logistics.', homepage_url: 'https://www.orbitfab.com', logo: orbit-fab.svg}
+    - {name: Infinite Orbits, description: 'GEO satellite inspection and Orbit Guard life-extension services.', homepage_url: 'https://www.infiniteorbits.io', logo: infinite-orbits.svg}
+    - {name: Atomos Space, description: 'Orbital transfer vehicles and in-space transportation and servicing.', homepage_url: 'https://atomosspace.com', logo: atomos-space.svg}
+    - {name: Momentus, description: 'Vigoride orbital service vehicles and hosted-payload transportation.', homepage_url: 'https://www.momentus.space', logo: momentus.svg}
+    - {name: Arkisys, description: 'The Port reusable orbital platform for payload hosting and logistics.', homepage_url: 'https://www.arkisys.com', logo: arkisys.svg}
+    - {name: TransAstra, description: 'In-space transportation, orbital logistics, and asteroid-resource technologies.', homepage_url: 'https://www.transastra.com', logo: transastra.svg}
+    - {name: Lux Aeterna, description: 'Reusable satellite platforms and reentry vehicles for circular space logistics.', homepage_url: 'https://www.luxaeterna.com', logo: lux-aeterna.svg}
+    - {name: GITAI, description: 'Robotic systems for in-space servicing, assembly, and lunar infrastructure.', homepage_url: 'https://gitai.tech', logo: gitai.svg}
+    - {name: Katalyst Space, description: 'Retrofit, upgrade, and autonomous servicing technologies for spacecraft.', homepage_url: 'https://www.katalystspace.com', logo: katalyst-space.svg}
   - name: In-Space Manufacturing & Reentry
     items:
-    - {name: Redwire Space, description: Orbital manufacturing, deployable structures, avionics, and mission-critical infrastructure., homepage_url: 'https://redwirespace.com', logo: redwire-space.svg}
-    - {name: Varda Space Industries, description: Microgravity manufacturing and reusable reentry capsules., homepage_url: 'https://www.varda.com', logo: varda-space-industries.svg}
-    - {name: Space Forge, description: Reusable satellites for in-orbit manufacturing of advanced materials., homepage_url: 'https://www.spaceforge.com', logo: space-forge.svg}
-    - {name: ThinkOrbital, description: Autonomous welding and large-scale orbital construction technologies., homepage_url: 'https://thinkorbital.com', logo: thinkorbital.svg}
+    - {name: Redwire Space, description: 'Orbital manufacturing, deployable structures, avionics, and mission-critical infrastructure.', homepage_url: 'https://redwirespace.com', logo: redwire-space.svg}
+    - {name: Varda Space Industries, description: 'Microgravity manufacturing and reusable reentry capsules.', homepage_url: 'https://www.varda.com', logo: varda-space-industries.svg}
+    - {name: Space Forge, description: 'Reusable satellites for in-orbit manufacturing of advanced materials.', homepage_url: 'https://www.spaceforge.com', logo: space-forge.svg}
+    - {name: ThinkOrbital, description: 'Autonomous welding and large-scale orbital construction technologies.', homepage_url: 'https://thinkorbital.com', logo: thinkorbital.svg}
 - name: Orbital Compute, Data Processing & AI
   subcategories:
   - name: Space Computing Platforms
     items:
-    - {name: Aetherflux, description: Developing orbital solar power and compute infrastructure., homepage_url: 'https://aetherflux.com', logo: aetherflux.svg}
-    - {name: Aethero, description: Radiation-tolerant high-performance edge computers for space AI workloads., homepage_url: 'https://www.aethero.com', logo: aethero.svg}
-    - {name: Ramon.Space, description: Space-resilient computing, networking, and software-defined storage systems., homepage_url: 'https://ramon.space', logo: ramon-space.svg}
-    - {name: OrbitsEdge, description: Radiation-shielded edge-computing infrastructure for orbital data centers., homepage_url: 'https://orbitsedge.com', logo: orbitsedge.svg}
-    - {name: Starcloud, description: Developing solar-powered orbital data centers for AI and cloud workloads., homepage_url: 'https://www.starcloud.com', logo: starcloud.svg}
-    - {name: Ubotica, description: Onboard AI, computer vision, and autonomous Earth-observation processing., homepage_url: 'https://ubotica.com', logo: ubotica.svg}
-    - {name: Unibap, description: Onboard space computing and autonomous AI solutions within Saab., homepage_url: 'https://unibap.com', logo: unibap.svg}
-    - {name: KP Labs, description: Onboard computers, AI processing, and satellite mission software., homepage_url: 'https://www.kplabs.space', logo: kp-labs.svg}
-    - {name: NVIDIA, description: GPU-accelerated AI computing platforms used in space and ground processing., homepage_url: 'https://www.nvidia.com', logo: nvidia.svg}
-    - {name: HPE, description: Spaceborne high-performance computing and edge systems., homepage_url: 'https://www.hpe.com', logo: hpe.svg}
-    - {name: Crusoe, description: Energy-optimized AI infrastructure and cloud computing relevant to orbital workloads., homepage_url: 'https://www.crusoe.ai', logo: crusoe.svg}
-    - {name: Little Place Labs, description: Edge-AI software for onboard satellite data processing and analytics., homepage_url: 'https://www.littleplace.com', logo: little-place-labs.svg}
+    - {name: Aetherflux, description: 'Developing orbital solar power and compute infrastructure.', homepage_url: 'https://aetherflux.com', logo: aetherflux.svg}
+    - {name: Aethero, description: 'Radiation-tolerant high-performance edge computers for space AI workloads.', homepage_url: 'https://www.aethero.com', logo: aethero.svg}
+    - {name: Ramon.Space, description: 'Space-resilient computing, networking, and software-defined storage systems.', homepage_url: 'https://ramon.space', logo: ramon-space.svg}
+    - {name: OrbitsEdge, description: 'Radiation-shielded edge-computing infrastructure for orbital data centers.', homepage_url: 'https://orbitsedge.com', logo: orbitsedge.svg}
+    - {name: Starcloud, description: 'Developing solar-powered orbital data centers for AI and cloud workloads.', homepage_url: 'https://www.starcloud.com', logo: starcloud.svg}
+    - {name: Ubotica, description: 'Onboard AI, computer vision, and autonomous Earth-observation processing.', homepage_url: 'https://ubotica.com', logo: ubotica.svg}
+    - {name: Unibap, description: 'Onboard space computing and autonomous AI solutions within Saab.', homepage_url: 'https://unibap.com', logo: unibap.svg}
+    - {name: KP Labs, description: 'Onboard computers, AI processing, and satellite mission software.', homepage_url: 'https://www.kplabs.space', logo: kp-labs.svg}
+    - {name: NVIDIA, description: 'GPU-accelerated AI computing platforms used in space and ground processing.', homepage_url: 'https://www.nvidia.com', logo: nvidia.svg}
+    - {name: HPE, description: 'Spaceborne high-performance computing and edge systems.', homepage_url: 'https://www.hpe.com', logo: hpe.svg}
+    - {name: Crusoe, description: 'Energy-optimized AI infrastructure and cloud computing relevant to orbital workloads.', homepage_url: 'https://www.crusoe.ai', logo: crusoe.svg}
+    - {name: Little Place Labs, description: 'Edge-AI software for onboard satellite data processing and analytics.', homepage_url: 'https://www.littleplace.com', logo: little-place-labs.svg}
 - name: Positioning, Navigation & Timing
   subcategories:
   - name: Commercial PNT Services
     items:
-    - {name: Xona Space Systems, description: Developing the Pulsar LEO constellation for resilient, high-precision PNT., homepage_url: 'https://www.xonaspace.com', logo: xona-space-systems.svg}
-    - {name: TrustPoint, description: LEO-based positioning, navigation, and timing services and demonstrations., homepage_url: 'https://www.trustpointgps.com', logo: trustpoint.svg}
-    - {name: Satelles, description: Satellite time and location services using existing LEO communication signals., homepage_url: 'https://www.satelles.com', logo: satelles.svg}
+    - {name: Xona Space Systems, description: 'Developing the Pulsar LEO constellation for resilient, high-precision PNT.', homepage_url: 'https://www.xonaspace.com', logo: xona-space-systems.svg}
+    - {name: TrustPoint, description: 'LEO-based positioning, navigation, and timing services and demonstrations.', homepage_url: 'https://www.trustpointgps.com', logo: trustpoint.svg}
+    - {name: Satelles, description: 'Satellite time and location services using existing LEO communication signals.', homepage_url: 'https://www.satelles.com', logo: satelles.svg}
 - name: Lunar Exploration & Off-World Infrastructure
   subcategories:
   - name: Lunar Delivery, Mobility & Resources
     items:
-    - {name: Intuitive Machines, description: Lunar delivery, communications, satellite manufacturing, and space infrastructure., homepage_url: 'https://www.intuitivemachines.com', logo: intuitive-machines.svg}
-    - {name: Astrobotic, description: Peregrine and Griffin lunar landers, payloads, and lunar power systems., homepage_url: 'https://www.astrobotic.com', logo: astrobotic.svg}
-    - {name: ispace, description: Commercial lunar landers, rovers, and payload transportation services., homepage_url: 'https://ispace-inc.com', logo: ispace.svg}
-    - {name: Draper, description: CLPS lunar delivery, guidance, navigation, and space mission systems., homepage_url: 'https://www.draper.com', logo: draper.svg}
-    - {name: Lunar Outpost, description: Lunar rovers, mobility systems, and surface infrastructure., homepage_url: 'https://www.lunaroutpost.com', logo: lunar-outpost.svg}
-    - {name: Astrolab, description: FLEX lunar rovers and logistics systems for crewed and uncrewed missions., homepage_url: 'https://www.astrolab.space', logo: astrolab.svg}
-    - {name: Canadensys Aerospace, description: Lunar rovers, avionics, and surface systems for exploration missions., homepage_url: 'https://www.canadensys.com', logo: canadensys-aerospace.svg}
-    - {name: Interlune, description: Developing lunar helium-3 resource prospecting and extraction systems., homepage_url: 'https://www.interlune.space', logo: interlune.svg}
+    - {name: Intuitive Machines, description: 'Lunar delivery, communications, satellite manufacturing, and space infrastructure.', homepage_url: 'https://www.intuitivemachines.com', logo: intuitive-machines.svg}
+    - {name: Astrobotic, description: 'Peregrine and Griffin lunar landers, payloads, and lunar power systems.', homepage_url: 'https://www.astrobotic.com', logo: astrobotic.svg}
+    - {name: ispace, description: 'Commercial lunar landers, rovers, and payload transportation services.', homepage_url: 'https://ispace-inc.com', logo: ispace.svg}
+    - {name: Draper, description: 'CLPS lunar delivery, guidance, navigation, and space mission systems.', homepage_url: 'https://www.draper.com', logo: draper.svg}
+    - {name: Lunar Outpost, description: 'Lunar rovers, mobility systems, and surface infrastructure.', homepage_url: 'https://www.lunaroutpost.com', logo: lunar-outpost.svg}
+    - {name: Astrolab, description: 'FLEX lunar rovers and logistics systems for crewed and uncrewed missions.', homepage_url: 'https://www.astrolab.space', logo: astrolab.svg}
+    - {name: Canadensys Aerospace, description: 'Lunar rovers, avionics, and surface systems for exploration missions.', homepage_url: 'https://www.canadensys.com', logo: canadensys-aerospace.svg}
+    - {name: Interlune, description: 'Developing lunar helium-3 resource prospecting and extraction systems.', homepage_url: 'https://www.interlune.space', logo: interlune.svg}
   - name: Off-World Data & Hosting
     items:
-    - {name: Lonestar, description: Lunar data-storage and disaster-recovery infrastructure., homepage_url: 'https://www.lonestarlunar.com', logo: lonestar.svg}
-    - {name: Skycorp, description: Space logistics, in-space assembly, and lunar surface infrastructure., homepage_url: 'https://www.skycorpinc.com', logo: skycorp.svg}
+    - {name: Lonestar, description: 'Lunar data-storage and disaster-recovery infrastructure.', homepage_url: 'https://www.lonestarlunar.com', logo: lonestar.svg}
+    - {name: Skycorp, description: 'Space logistics, in-space assembly, and lunar surface infrastructure.', homepage_url: 'https://www.skycorpinc.com', logo: skycorp.svg}
 - name: Government & Regulatory Agencies
   subcategories:
   - name: Agencies
     items:
-    - {name: ESA, description: European intergovernmental organization for space programs and exploration., homepage_url: 'https://www.esa.int', logo: esa.svg}
-    - {name: ISRO, description: India national space agency for launch, satellites, and exploration., homepage_url: 'https://www.isro.gov.in', logo: isro.svg}
-    - {name: NASA, description: United States civil space agency for science, exploration, and aeronautics., homepage_url: 'https://www.nasa.gov', logo: nasa.svg}
-    - {name: JAXA, description: Japan aerospace exploration agency for science, launch, and human spaceflight., homepage_url: 'https://global.jaxa.jp', logo: jaxa.svg}
-    - {name: NICT, description: Japanese research institute for ICT and space-weather science., homepage_url: 'https://swc.nict.go.jp/en/', logo: nict.svg}
-    - {name: NOAA SWPC, description: United States space-weather forecasting and monitoring center., homepage_url: 'https://www.swpc.noaa.gov/', logo: noaa.svg}
-    - {name: NSIL, description: Commercial arm of the Indian space program for satellites and launch services., homepage_url: 'https://www.nsilindia.co.in', logo: nsil.svg}
-    - {name: SIDC, description: Solar Influences Data Analysis Center for solar-activity monitoring., homepage_url: 'https://www.sidc.be/', logo: sidc.svg}
-    - {name: Space Development Agency (SDA), description: United States organization developing resilient military space architectures., homepage_url: 'https://www.sda.mil', logo: space-development-agency.svg}
-    - {name: US Space Force, description: United States military branch for space operations and security., homepage_url: 'https://www.spaceforce.mil', logo: ussf.svg}
-    - {name: US Gov, description: Centralized resource for United States federal government services., homepage_url: 'https://www.usa.gov', logo: usgov.svg}
+    - {name: ESA, description: 'European intergovernmental organization for space programs and exploration.', homepage_url: 'https://www.esa.int', logo: esa.svg}
+    - {name: ISRO, description: 'India national space agency for launch, satellites, and exploration.', homepage_url: 'https://www.isro.gov.in', logo: isro.svg}
+    - {name: NASA, description: 'United States civil space agency for science, exploration, and aeronautics.', homepage_url: 'https://www.nasa.gov', logo: nasa.svg}
+    - {name: JAXA, description: 'Japan aerospace exploration agency for science, launch, and human spaceflight.', homepage_url: 'https://global.jaxa.jp', logo: jaxa.svg}
+    - {name: NICT, description: 'Japanese research institute for ICT and space-weather science.', homepage_url: 'https://swc.nict.go.jp/en/', logo: nict.svg}
+    - {name: NOAA SWPC, description: 'United States space-weather forecasting and monitoring center.', homepage_url: 'https://www.swpc.noaa.gov/', logo: noaa.svg}
+    - {name: NSIL, description: 'Commercial arm of the Indian space program for satellites and launch services.', homepage_url: 'https://www.nsilindia.co.in', logo: nsil.svg}
+    - {name: SIDC, description: 'Solar Influences Data Analysis Center for solar-activity monitoring.', homepage_url: 'https://www.sidc.be/', logo: sidc.svg}
+    - {name: Space Development Agency (SDA), description: 'United States organization developing resilient military space architectures.', homepage_url: 'https://www.sda.mil', logo: space-development-agency.svg}
+    - {name: US Space Force, description: 'United States military branch for space operations and security.', homepage_url: 'https://www.spaceforce.mil', logo: ussf.svg}
+    - {name: US Gov, description: 'Centralized resource for United States federal government services.', homepage_url: 'https://www.usa.gov', logo: usgov.svg}
