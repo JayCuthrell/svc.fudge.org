@@ -33,12 +33,14 @@ groups:
   - name: Orbital Infrastructure
     alias: infrastructure
     categories:
+      - Launch & Access to Space
       - Orbital Compute, Data Processing & AI
       - Cloud Extension & Satellite Connectivity
       - Hardware, Manufacturing & Radiation Hardening
   - name: Operations & Exploration
     alias: operations
     categories:
+      - Ground Segment & Mission Operations
       - Space Logistics, Servicing & Safety
       - Sensing, Imagery & Domain Awareness
       - Lunar Exploration & Off-World Hosting

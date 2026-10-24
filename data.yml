@@ -1,5 +1,39 @@
 # data.yml
 categories:
+  - name: Launch & Access to Space
+    subcategories:
+      - name: Launch Providers
+        items:
+          - name: Arianespace
+            description: 'Ariane 6 and Vega-C launch services for institutional and commercial customers.'
+            homepage_url: https://www.arianespace.com/
+            logo: arianespace.svg
+          - name: Avio
+            description: 'Vega launch vehicles and propulsion systems for space access.'
+            homepage_url: https://www.avio.com/
+            logo: avio.svg
+          - name: Isar Aerospace
+            description: 'Spectrum launch vehicles for small and medium satellite payloads.'
+            homepage_url: https://isaraerospace.com/
+            logo: isar-aerospace.svg
+          - name: Mitsubishi Heavy Industries
+            description: 'H3 launch vehicles and institutional and commercial launch services.'
+            homepage_url: https://www.mhi.com/business/products-services/space-defense
+            logo: mitsubishi-heavy-industries.svg
+          - name: Stoke Space
+            description: 'Developing the fully and rapidly reusable Nova launch vehicle.'
+            homepage_url: https://www.stokespace.com/
+            logo: stoke-space.svg
+      - name: Rideshare, Integration & Deployment
+        items:
+          - name: Exolaunch
+            description: 'Launch mission management, satellite integration, deployment hardware, and orbital transfer.'
+            homepage_url: https://exolaunch.com/
+            logo: exolaunch.svg
+          - name: SEOPS
+            description: 'Launch integration, rideshare brokerage, and deployment services.'
+            homepage_url: https://seops.space/
+            logo: seops.svg
   - name: Orbital Compute, Data Processing & AI
     subcategories:
       - name: Computing Platforms
@@ -114,6 +148,18 @@ categories:
             homepage_url: https://www.viasat.com
             logo: viasat.svg
 
+          - name: Elveo Mobile
+            description: 'Direct-to-device satellite connectivity for phones, devices, and machines.'
+            homepage_url: https://www.elveo.com/
+            logo: elveo-mobile.svg
+          - name: Eutelsat Group
+            description: 'GEO and OneWeb LEO connectivity for enterprise, mobility, broadcast, and government.'
+            homepage_url: https://www.eutelsat.com/
+            logo: eutelsat-group.svg
+          - name: Globalstar
+            description: 'LEO mobile satellite services, IoT connectivity, and direct-to-device infrastructure.'
+            homepage_url: https://www.globalstar.com/en-us
+            logo: globalstar.svg
   - name: Hardware, Manufacturing & Radiation Hardening
     subcategories:
       - name: Infrastructure & Buses
@@ -214,6 +260,38 @@ categories:
             description: Standardized, mass-manufacturable satellite bus platforms.
             homepage_url: https://www.yorkspacesystems.com
             logo: york-space.svg
+          - name: Airbus Defence and Space
+            description: 'Satellite platforms, space systems, exploration hardware, and orbital infrastructure.'
+            homepage_url: https://www.airbus.com/en/products-services/space
+            logo: airbus-defence-and-space.svg
+          - name: GomSpace
+            description: 'Nanosatellite platforms, subsystems, and constellation solutions.'
+            homepage_url: https://gomspace.com/
+            logo: gomspace.svg
+          - name: Gravitics
+            description: 'Large-diameter space-station modules and orbital infrastructure platforms.'
+            homepage_url: https://www.gravitics.com/
+            logo: gravitics.svg
+          - name: MDA Space
+            description: 'Satellite systems, space robotics, and geointelligence products.'
+            homepage_url: https://mda.space/
+            logo: mda-space.svg
+          - name: Mitsubishi Electric
+            description: 'Satellite platforms, payloads, and space-grade electronic systems.'
+            homepage_url: https://www.mitsubishielectric.com/en/
+            logo: mitsubishi-electric.svg
+          - name: OHB SE
+            description: 'Satellite platforms, space systems, and European institutional programs.'
+            homepage_url: https://www.ohb.de/
+            logo: ohb-se.svg
+          - name: Open Cosmos
+            description: 'End-to-end satellite missions and shared Earth-observation and connectivity infrastructure.'
+            homepage_url: https://www.open-cosmos.com/
+            logo: open-cosmos.svg
+          - name: Surrey Satellite Technology (SSTL)
+            description: 'Small-satellite platforms and turnkey missions for commercial and institutional users.'
+            homepage_url: https://www.sstl.co.uk/
+            logo: surrey-satellite-technology.svg
       - name: Electronics & Semiconductors
         items:
           - name: Apogee Semiconductor
@@ -224,6 +302,10 @@ categories:
             description: Radiation-hardened microcontrollers using HARDSIL technology.
             homepage_url: https://www.voragotech.com
             logo: vorago-technologies.svg
+          - name: 3D PLUS
+            description: 'Radiation-tolerant high-reliability microelectronics and camera modules.'
+            homepage_url: https://www.3d-plus.com/
+            logo: 3d-plus.svg
       - name: Propulsion & Power
         items:
           - name: Avalanche Energy
@@ -254,6 +336,22 @@ categories:
             description: Radioisotope power systems (RPS) for long-duration missions.
             homepage_url: https://www.zenopower.com
             logo: zeno-power.svg
+          - name: ArianeGroup
+            description: 'Launch vehicle and spacecraft propulsion, rocket engines, and orbital systems.'
+            homepage_url: https://www.ariane.group/
+            logo: arianegroup.svg
+          - name: Exotrail
+            description: 'Electric propulsion, mission software, and orbital transfer vehicles.'
+            homepage_url: https://www.exotrail.com/
+            logo: exotrail.svg
+          - name: Impulse Space
+            description: 'High-thrust orbital transfer vehicles and in-space propulsion systems.'
+            homepage_url: https://www.impulsespace.com/
+            logo: impulse-space.svg
+          - name: Morpheus Space
+            description: 'GO-2 electric propulsion systems and satellite mobility solutions.'
+            homepage_url: https://www.morpheus.space/
+            logo: morpheus-space.svg
       - name: Materials & Shielding
         items:
           - name: Atomic-6
@@ -287,6 +385,64 @@ categories:
             homepage_url: https://redwirespace.com
             logo: made-in-space.svg
 
+      - name: ADCS, Communications & Optical Systems
+        items:
+          - name: Beyond Gravity
+            description: 'Satellite structures, mechanisms, thermal hardware, electronics, and launch fairings.'
+            homepage_url: https://www.beyondgravity.com/en
+            logo: beyond-gravity.svg
+          - name: CesiumAstro
+            description: 'Software-defined phased-array communications payloads and space electronics.'
+            homepage_url: https://www.cesiumastro.com/
+            logo: cesiumastro.svg
+          - name: CubeSpace
+            description: 'Attitude determination and control systems for small satellites.'
+            homepage_url: https://www.cubespace.co.za/
+            logo: cubespace.svg
+          - name: Lynred
+            description: 'Infrared detectors for space observation, science, and defense payloads.'
+            homepage_url: https://www.lynred.com/
+            logo: lynred.svg
+          - name: TESAT
+            description: 'Laser communication terminals, RF payloads, and satellite communication equipment.'
+            homepage_url: https://www.tesat.de/
+            logo: tesat.svg
+  - name: Ground Segment & Mission Operations
+    subcategories:
+      - name: Ground Station Services
+        items:
+          - name: Goonhilly Earth Station
+            description: 'Deep-space and lunar communications plus commercial ground-station services.'
+            homepage_url: https://www.goonhilly.org/
+            logo: goonhilly-earth-station.svg
+          - name: KSAT
+            description: 'Global ground-station network, TT&C, data downlink, and Earth-observation services.'
+            homepage_url: https://www.ksat.no/
+            logo: ksat.svg
+          - name: Leaf Space
+            description: 'Ground Segment as a Service through a distributed, API-managed station network.'
+            homepage_url: https://leaf.space/
+            logo: leaf-space.svg
+          - name: SSC Space
+            description: 'Ground-station networks, mission operations, launch services, and space engineering.'
+            homepage_url: https://sscspace.com/
+            logo: ssc-space.svg
+      - name: User Terminals & Ground Equipment
+        items:
+          - name: Kymeta
+            description: 'Electronically steered flat-panel terminals for mobile satellite connectivity.'
+            homepage_url: https://www.kymetacorp.com/
+            logo: kymeta.svg
+      - name: Mission Software & Operations
+        items:
+          - name: Cognitive Space
+            description: 'AI-assisted mission planning and satellite collection management.'
+            homepage_url: https://www.cognitivespace.com/
+            logo: cognitive-space.svg
+          - name: Leanspace
+            description: 'Cloud-native software for satellite and ground-segment operations.'
+            homepage_url: https://leanspace.io/
+            logo: leanspace.svg
   - name: Space Logistics, Servicing & Safety
     subcategories:
       - name: Orbital Services
@@ -344,6 +500,18 @@ categories:
             homepage_url: https://www.vayaspace.com
             logo: vaya-space.svg
 
+          - name: GITAI
+            description: 'Robotic systems for in-space servicing, assembly, and lunar infrastructure.'
+            homepage_url: https://gitai.tech/
+            logo: gitai.svg
+          - name: Katalyst Space
+            description: 'Retrofit, upgrade, and autonomous servicing technologies for spacecraft.'
+            homepage_url: https://www.katalystspace.com/
+            logo: katalyst-space.svg
+          - name: Momentus
+            description: 'Vigoride orbital service vehicles and hosted-payload transportation.'
+            homepage_url: https://www.momentus.space/
+            logo: momentus.svg
   - name: Sensing, Imagery & Domain Awareness
     subcategories:
       - name: Data & Analytics
@@ -413,6 +581,44 @@ categories:
             homepage_url: https://xiomas.com
             logo: xiomas.svg
 
+          - name: EarthDaily
+            description: 'Earth-observation constellation and AI-ready daily change-detection analytics.'
+            homepage_url: https://earthdaily.com/
+            logo: earthdaily.svg
+          - name: Tomorrow.io
+            description: 'Weather intelligence platform and space-based precipitation observation constellation.'
+            homepage_url: https://www.tomorrow.io/
+            logo: tomorrow-io.svg
+          - name: Umbra
+            description: 'High-resolution commercial SAR imagery and space-systems capabilities.'
+            homepage_url: https://umbra.space/
+            logo: umbra.svg
+      - name: Space Domain Awareness & Traffic Coordination
+        items:
+          - name: Kayhan Space
+            description: 'Autonomous collision avoidance, conjunction assessment, and space-traffic coordination.'
+            homepage_url: https://kayhan.space/
+            logo: kayhan-space.svg
+          - name: Neuraspace
+            description: 'AI-enabled space-traffic management and conjunction-risk mitigation.'
+            homepage_url: https://www.neuraspace.com/
+            logo: neuraspace.svg
+          - name: NorthStar Earth & Space
+            description: 'Space-based SSA sensors and space-traffic information services.'
+            homepage_url: https://northstar-data.com/
+            logo: northstar-earth-and-space.svg
+          - name: Slingshot Aerospace
+            description: 'Space-domain awareness, sensor data fusion, simulation, and operational software.'
+            homepage_url: https://www.slingshot.space/
+            logo: slingshot-aerospace.svg
+          - name: True Anomaly
+            description: 'Autonomous orbital vehicles and software for space-domain awareness and security.'
+            homepage_url: https://www.trueanomaly.space/
+            logo: true-anomaly.svg
+          - name: Vyoma
+            description: 'Space-based surveillance and automated space-traffic safety services.'
+            homepage_url: https://www.vyoma.space/
+            logo: vyoma.svg
   - name: Lunar Exploration & Off-World Hosting
     subcategories:
       - name: Lunar Infrastructure
@@ -430,6 +636,10 @@ categories:
             homepage_url: https://www.skycorpinc.com
             logo: skycorp.svg
 
+          - name: Astrobotic
+            description: 'Peregrine and Griffin lunar landers, payloads, and lunar power systems.'
+            homepage_url: https://www.astrobotic.com/
+            logo: astrobotic.svg
   - name: Government & Regulatory Agencies
     subcategories:
       - name: Agencies
