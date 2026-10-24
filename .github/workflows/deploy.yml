@@ -42,7 +42,7 @@ jobs:
           cat >> dist/assets/index-*.css <<'EOF'
       
           /* Ensure light and dark transparent logos remain visible. */
-          img[src*="/logos/"] {
+          img[src*="logos/"] {
             background-color: #6b7280;
             padding: 8px;
             border-radius: 4px;
