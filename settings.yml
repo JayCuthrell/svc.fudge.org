@@ -30,18 +30,29 @@ footer:
     homepage: "https://github.com/JayCuthrell/svc.fudge.org"
 
 groups:
-  - name: Orbital Infrastructure
-    alias: infrastructure
+  - name: Upstream & Infrastructure
+    alias: upstream
     categories:
+      - Launch & Access to Space
+      - Spacecraft Manufacturing & Orbital Infrastructure
+      - Components, Subsystems & Enabling Hardware
+  - name: Networks & Operations
+    alias: networks
+    categories:
+      - Satellite Connectivity & Network Services
+      - Ground Segment & Mission Operations
       - Orbital Compute, Data Processing & AI
-      - Cloud Extension & Satellite Connectivity
-      - Hardware, Manufacturing & Radiation Hardening
-  - name: Operations & Exploration
-    alias: operations
+      - Positioning, Navigation & Timing
+  - name: Intelligence & In-Space Services
+    alias: services
     categories:
-      - Space Logistics, Servicing & Safety
-      - Sensing, Imagery & Domain Awareness
-      - Lunar Exploration & Off-World Hosting
+      - Earth Observation & Geospatial Intelligence
+      - Space Domain Awareness & Traffic Coordination
+      - In-Space Logistics, Servicing & Manufacturing
+  - name: Exploration
+    alias: exploration
+    categories:
+      - Lunar Exploration & Off-World Infrastructure
   - name: Governance
     alias: agencies
     categories:
