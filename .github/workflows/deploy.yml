@@ -36,6 +36,19 @@ jobs:
         env:
           # Tell landscape2 where to find the browser we just installed
           CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
+
+      - name: Add global logo contrast styles
+        run: |
+          cat >> dist/assets/index-*.css <<'EOF'
+      
+          /* Ensure light and dark transparent logos remain visible. */
+          img[src*="/logos/"] {
+            background-color: #6b7280;
+            padding: 8px;
+            border-radius: 4px;
+            box-sizing: border-box;
+          }
+          EOF
           
       - name: Add CNAME and .nojekyll
         run: |
